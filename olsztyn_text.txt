@@ -1,0 +1,2507 @@
+
+Linia    12608: 851283,620972030,Antoni,Adamczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wawrzyczka 1L,10-762,787086532 
+
+Linia    14295: 1115389,760343984,Marcin,Żarski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 19A/26,10-560,+48577593506 
+
+Linia    16185: 1593530,665186037,Borys,Kurłowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wyszyńskiego 18/128,10-450,791080161 
+
+Linia    21496: 1993095,551521420,Jakub,Pieryszcz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 12B/81,10-559,660564112 
+
+Linia    31641: 2266835,272534522,Filip,Aurast,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,8 Zbożowa,10-807,791087490 
+
+Linia    40134: 1476578,583306023,Milosz,Piatek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bankowców 11,10-628,517649486 
+
+Linia    54004: 1991212,173487828,Anna,Jurewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Niepodległości 16 KW PSP,10-045 Olsztyn,511610165 
+
+Linia    60123: 948110,809807664,Michal,Tyszka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn Bartąska 122/17,10-687,733063023 
+
+Linia    76882: 1861639,489151274,Borys,Rybiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 31/16,10-685,518290858 
+
+Linia    78913: 813472,603838733,Mateusz,Bogut,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gębika 21/4,10-691,+48 506618730 
+
+Linia    89263: 1538160,537794195,marcin,Moscicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wilczynskiego 2B/12,10-686,606326357 
+
+Linia    89679: 1661314,499069284,Michał,Płocha,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Żółkiewskiego 24,11-041,698840616 
+
+Linia    90347: 1196387,664066451,Szymon,Kaczmarczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellońska 55b/43,10-283,574638777 
+
+Linia   101267: 662122,676139664,Robert,Wasielewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Generała Stanisława Maczka 28/16,10-693,792504007 
+
+Linia   102909: 2298265,554532285,Artur ,Bilonozhko ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn ,Ernesta Wiecherta 7/18,10-691,+48730351216 
+
+Linia   103653: 863155,986566737,Antonina,Żuchowska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Henryka Sienkiewicza 11a/7,10-900,575762003 
+
+Linia   121764: 806900,247363794,Szymon,Urbanowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jaroszyka 19/49,10-900,796478463 
+
+Linia   126672: 65806,55896133,Oliwier,Rudziński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Murzynowskiego 5/9,10-684,790250093 
+
+Linia   126939: 155770,942183896,Beniamin,Jazdon,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Bohaterów Bielnika 26C,64-200,0048691433533 
+
+Linia   130504: 921725,635731470,Bartosz,Wieczorek,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Garbarska 9/58,64-200,697 344 519 
+
+Linia   131431: 1017138,806987010,Wiktor,Sulewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Partyzantów 1/2 Apartment 3,10-522,797 864 746 
+
+Linia   131843: 
+1506695,117058226,sebastian,poetruszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,okulickiego4/13,10-606,668092499 
+
+Linia   132660: 1106417,810377407,Hubert,Iwanow,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,11-041 Olsztyn, ul Ketlinga 5,11-041,+3530892202830 
+
+Linia   141997: 2348152,629354513,Artur,Trzciński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Morenowa 5B/10 Olsztyn ,10-687,579514298 
+
+Linia   141999: 825957,205573358,Maciej,Rudnicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pstrowskiego Wincentego 14I/4 
+
+Linia   145646: 1938843,597356478,Sylwia,Sobieska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul .Jarocka 74b/0,10-699,792380804 
+
+Linia   147901: 1402289,809053665,Mateusz,Smoczyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bolesława Laszki 1/18,10-687,798865384 
+
+Linia   154198: 1502866,749298531,Jan,Kryczka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 1A m/19,10-698,698962896 
+
+Linia   155918: 434901,361063654,Tomasz,Domagalski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Okulickiego 8/32,10-693,690566429 
+
+Linia   163052: 786379,712339087,Antek,Waligórski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Nowe Tłoki 24A,64-200,515604396 
+
+Linia   164295: 1812264,991443197,m,e,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Bartąska 116/5,10-689,601557394 
+
+Linia   169396: 2331682,619490449,Artur,Cieszyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pana Tadeusza 12/38,10-461,666812531 
+
+Linia   184173: 1090853,523619254,Dawid,Uscinowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 62, apartament number 11,10-689,+48 508664545 
+
+Linia   202693: 797465,712422885,Igor,Gembicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanarkowa 3,11-041,506086194 
+
+Linia   222304: 1314336,270054629,Paweł,Metzler,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Gajewskich 1e/3,64-200,609 600 400 
+
+Linia   236034: 591701,129896777,Miłosz,Zalewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąg Miła 22,10-687,505403543 
+
+Linia   241982: 1496406,671688178,Michal,Boltralik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Partyzantów 69/3A,10-402,698233881 
+
+Linia   246670: 124527,412022934,olaf,golebiowski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,ul.Gałczyńskiego 62/3,10-089,514 572 573 
+
+Linia   253158: 46521,552246138,maciek ,sosnowy ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gutkowo 43,11-041,512388029 
+
+Linia   255082: 1367952,991251364,Coral Travel,Karen 
+Kulczyńska,39959,Poland,Warmian-Masurian Voivodeship,Olsztyn,ul. Tuwima 26,10-748,+48796443780 
+
+Linia   255220: 1141382,532915812,Filip,Błoszyk,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Wiśniowa 1,64-200,48+789022797 
+
+Linia   257897: 1169506,303502509,Kacper,Majewski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,jarocka 64 /24,10-600,505541862 
+
+Linia   258311: 2093561,560984226,szymon,nasiadka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Pana Tadeusza 4/51,10-461,+48796239309 
+
+Linia   271927: 1387371,150632132,Jakub,Nicewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kętrzyńskiego 11/5,10-423,+48516796792 
+
+Linia   279484: 2019182,392442667,Maciej,Kopeć,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Szczekin-Krotowa 1,10-759,+48733714001 
+
+Linia   285636: 1689640,966232844,Adrian,Panewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stanisława Żurawskiego 23/4,10-689,510665872 
+
+Linia   305358: 1106713,483402166,jakub,walter,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Wiśniowa 3,11-015,514276375 
+
+Linia   306086: 1068172,158742622,Aleksandra,Kuczynska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,BARCZA 48/34,10-685,730190775 
+
+Linia   309744: 460654,510230000,Mikołaj,Komiago,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żiżki 8/9,10-070,691281933 
+
+Linia   330422: 424672,983978646,Lukasz,Gralczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Gołdapska 71,10-633,534051001 
+
+Linia   331129: 647770,982554346,Julia,Wółkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kołobrzeska 14A/21,10-443,511271650 
+
+Linia   333410: 1805934,468311276,Dawid,Kornatowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 174/18,10-687,737166410 
+
+Linia   333860: 1653563,201590496,Damian,Orzechowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Działkowa 62,10-861,511918278 
+
+Linia   335840: 1311638,331959910,Maciej,Skutnik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Katowicka 2a/33,10-252,690699336 
+
+Linia   339298: 373280,818347164,Kajetan,Niedzwiecki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 14D/56,10-561,661816419 
+
+Linia   340385: 612644,824478137,Jakub,Radziewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Ul. Klonowa 8,11-015,0000000 
+
+Linia   350554: 1647185,610521696,Daniel,Wenderlich,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Marcina Kapsrzaka 9/17,10-057,506703947 
+
+Linia   355756: 1433859,921757742,Antoni,Kowalski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn, Bartąska 12/27,10-699,+48573260843 
+
+Linia   357381: 294867,508801741,Piotr,Ambroziński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Augustowska 38/12 Olsztyn,10-683,730085685 
+
+Linia   364193: 978131,574318338,Michał,Friedrich,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Grunwaldzka 9B/30,10-123,885561837 
+
+Linia   371642: 1027485,901896642,Tomasz,Bogdanski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul.Sikorskiego 2f,10-088,530755830 
+
+Linia   371955: 6468,97399273,Karol,Cielaskiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zurawia 26A/41,11-041,+48 792 040 438 
+
+Linia   393744: 1988820,575482473,Kamil,Jaroszewicz,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,5 Stycznia 12/4,64-200,+48 798971975 
+
+Linia   396979: 2135094,820984397,Antoni,Augustynowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zolnierska 33/61,10-560,515168628 
+
+Linia   399235: 1139515,617157314,Mateusz,Jaguszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żniwna 84,10-811,572156214 
+
+Linia   401470: 896527,514465708,Maciek,sosnowy,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gutkowo 43,11-041,512388029 
+
+Linia   418628: 580314,949453907,Mateusz,Kozlowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanarkowa 17b,11-041,+48 531 764 764 
+
+Linia   420582: 
+1650794,505305505,Aleksander,Ostaszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego18/19,10-061,603853895 
+
+Linia   426532: 2332598,597498318,Jakub,Fronczak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Murzynowskiego 22/34  
+
+Linia   426580: 1034166,548671734,jan,kowalski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,galczynskiego 13/4,10-089,516725339 
+
+Linia   435109: 1788665,272349608,Felip,Felip,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Jasna 12,64-200,514276770 
+
+Linia   438630: 365778,982417195,Kacper,Kleczewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn , Stawigudzka 7/94,10-687,792420081 
+
+Linia   438954: 337059,779887983,Aleksander,Rudziński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Złota 9/17,10-698,575066244 
+
+Linia   444400: 2164599,612160360,Grzegorz,Dudaniec,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ErnestaWiecherta 35/24,10-691,733535049 
+
+Linia   464389: 2004347,477947041,Adrianna,Grzegolec,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Janowicza 4/19,10-692,572394149 
+
+Linia   469974: 385007,867312459,tomasz,ussorowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Aleja Warszawska 72/9,10-900,502832111 
+
+Linia   474706: 2062155,256995800,Bartosz,Sawiniec,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Skierniewicka 12,10-614,505407677 
+
+Linia   479735: 1279935,121865016,aleksander,bus,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Srebrna2/12,10698,692506363 
+
+Linia   491475: 364513,714624962,MAteusz ,Kowal ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pimpickiego 
+
+Linia   493930: 1416719,387896922,Wiktoria,Wieczorek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kłosowa 4a,10-900,732799278 
+
+Linia   499794: 2354194,296504546,Radosław,Paderewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Reymonta 22 m 2,10-334,+48 690936990 
+
+Linia   502438: 692712,482409782,Mariusz,Piatczyc,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jerzego Burskiego 22/6,10-686,504007607 
+
+Linia   502637: 902931,553958085,Witold,Romański,39959,Poland,Silesian 
+Voivodeship,Olsztyn,Maurycego 10,42-256,531415651 
+
+Linia   510910: 1221675,195726295,Michał,Andruszkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żniwna 47,10-810,+48512055235 
+
+Linia   518458: 1702894,721368075,Mikołaj,Krajewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mazowiecka 8/15,10-699,+48579066107 
+
+Linia   522588: 1467008,951699463,oskar,wronka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jana Boenigka 1a/35,10-686,576946067 
+
+Linia   528714: 1977329,789724311,marcel,burzynski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,barcza 48/116,10-685,+48 695812008 
+
+Linia   530798: 
+1947747,481425925,Aleksandra,Ramatowska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Popiełuszki 32/57,10-693,660438803 
+
+Linia   547990: 570633,497401555,Kacper,Chętnik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanta 12 mieszkania 33,10-691,571 280 506 
+
+Linia   548535: 855676,238515620,Mikołaj,Komiago,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żiżki 8/9,10-070,691281933 
+
+Linia   548819: 1256782,270462550,Dorian,Dominik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Lesna 28/21,10-173,+48508808407 
+
+Linia   551276: 1644847,221137295,Bartosz,Kluziak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Władysława Orkana 18/2,10-012,575372659 
+
+Linia   551616: 250354,243653937,Małgorzata,Orych,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Jerzego Bukowskiego 2/82 
+
+Linia   551617: Olsztyn POLAND,10-699,048789789898 
+
+Linia   556702: 2295418,149326361,Oskar,Bartnik,39959,Poland,Pomeranian 
+Voivodeship,Gdansk,Olsztynska 4E/10,80-395,+48660938146 
+
+Linia   556799: 2176617,360707596,Robert,Szyłański,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellońska 54/36,10-900,731080316 
+
+Linia   558484: 1505213,543001909,Kuba,Szostek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Andersa 5/14,10-693,510407287 
+
+Linia   563582: 783591,455509476,Bartosz,Wilk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Długosza 18,11-015,500482376 
+
+Linia   564312: 2127007,145920212,Igor,Zarębski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Samulowskiego 3/2,10-530,666037941 
+
+Linia   591122: 1325562,229109339,Zbigniew,Markowski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Sturnego 2,64-200,798719922 
+
+Linia   592467: 5077,62392598,Kacper,Wieczorek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 17/37,40-615,+48883554080 
+
+Linia   597878: 2323269,589018900,Szymon,Burzynski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 45/45,10-437,513259960 
+
+Linia   601877: 780493,345904133,Miłosz,Dargiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Działkowa 54,10-861,535 198 648 
+
+Linia   607740: 1515263,131908443,Bogumil,Najmowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 113/25,10-687,798734938 
+
+Linia   608356: 156090,624277584,Oliwier,Chudzik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Prosta 1/2/13,10-028,+48794932006 
+
+Linia   611616: 2259370,156216622,Maksymilian,Likszo,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Sucharskiego 6/23,10-693,533974087 
+
+Linia   613956: 538620,485446738,Mikołaj,Siemianowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Popiełuszki 18/34  
+
+Linia   617523: 2239024,512951968,Artur,Wojciechowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Generała Stefana Grota Roweckiego 4/12,10-693,732723634 
+
+Linia   620557: 1234541,554302612,Damian,Czok,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Adamowo 4H/2,64-200,+48661830231 
+
+Linia   621559: 155541,964799721,Daniel,Wiliński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 25/9,10-685,883 514 788 
+
+Linia   635450: 2160174,230973852,Filip,Rynkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Świtezianki 1/88,10-464,531404960 
+
+Linia   650365: 1704752,401554222,Bogdan,Lenkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Antonowicza7/F,10-698,665030900 
+
+Linia   656662: 2122015,593060351,Franek,Korzeniecki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Panasa 8, mieszkanie 7,10-691,531442660 
+
+Linia   662493: 1913073,899655145,Jakub,Obudzunski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 78b/17,10-699,795957620 
+
+Linia   681472: 2019005,975102831,Krystian,Urbanowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Orlowicza 25/37,10-684,501340029 
+
+Linia   700715: 979304,722095209,Mikołaj,Marciniak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 61/36,10-437,+48518675293 
+
+Linia   702345: 686252,609968941,Joanna,Komar,39959,Poland,Greater Poland 
+Voivodeship,Olsztyn,Tracka 5 
+
+Linia   713171: 1486544,300184431,Mateusz,Sidorowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jeziołowicza 7/19,10-690,728480494 
+
+Linia   724390: 89478,810586860,Damian,Krysiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mieczysława Orłowicza 19/5,10-684,665635987 
+
+Linia   762529: 2251642,199423701,Krystian,Chwala,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kossaka 34/3,10-349,725876941 
+
+Linia   767033: 1181276,874508554,Hubert,Berent,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Kazimierza Jagiellończyka 8a/16,11-041,500077614 
+
+Linia   781594: 2257878,118672892,Oleksandr,Shkinder,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Marii Konopnickiej 3\5,64-200,668173701 
+
+Linia   790720: 478548,198360185,Filip,Duber,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,1 zacisze,64-200,695196119 
+
+Linia   804491: 432141,398697642,Miłosz,Zalewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąg ulica Miła 22,10-687,505403543 
+
+Linia   815584: 1818746,468621202,Stanisław,Olkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,pstrowskiego 17/57,10-601,608194508 
+
+Linia   827328: 2240662,197456098,Nikol,Halik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego 1 m.186,10-061,697316896 
+
+Linia   836220: 479354,591520265,Dominik,Wawrzyniak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 4 / 6,10414,794718310 
+
+Linia   840965: 961781,293406066,Franek,Ciepliński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 4/30,10-699,577783353 
+
+Linia   854912: 123716,703514523,Damian,Bazylewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Murzynowskiego 5/45 10-684,10-684,507672268 
+
+Linia   861714: 2057597,926532593,Konrad,Tomasiuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Skajboty 
+
+Linia   861955: 871289,578776234,Mikołaj,Madeksza,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jana Boegnika 21/15,10-686,+48 575280505 
+
+Linia   862754: 938625,887387467,Marcel,Hejnicki,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Żeromskiego 8/28,64-200,721314932 
+
+Linia   870299: 1806418,345693073,Norbert,Weżgowiec,39959,Poland,Silesian 
+Voivodeship,Olsztyn,Krasawa 18 42-256 Olsztyn,42-256,574356420 
+
+Linia   878224: 1196466,338438839,Julia,Borucka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Sokola 1A/4, 11-041 Olsztyn,11-041,+48530903027 
+
+Linia   878311: 2143554,390831299,Kacper ,Bojarzyn,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 66/29,10-437,730994939 
+
+Linia   896402: 1035467,502240156,Piotr,Szostek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mroza 12/28,10-692,601904725 
+
+Linia   896757: 1477349,165040287,Kacper,Zawadzki,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Wolsztyn Garbarska 8/54,64-200,537247759 
+
+Linia   898590: 1215027,420353764,Filip,Leszczyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pana Tadeusza 2/25,10-461,695975501 
+
+Linia   905223: 1924411,776055570,Miłosz,Dargiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Działkowa 54 Olsztyn,10-861,535198648 
+
+Linia   907709: 416847,916797468,Filip,Wojnowski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,bolka i lolka 31,10-696,501125326 
+
+Linia   910111: 720018,816142990,konrad,jamroszka,39959,Poland,Greater Poland 
+Voivodeship,olsztyn,herdera 24/28,10-691,532554465 
+
+Linia   918321: 173395,891927088,Salaam ,Diallo,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kutrzeby 2/26,10693,501851981 
+
+Linia   919427: 546739,359763651,mykyta,Vrublevskyi,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zolnierska14c/213,10-561,577653427 
+
+Linia   922871: 2223886,783478892,Oliwier,Stempień,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Morwowa 12,10-023,577301066 
+
+Linia   926490: 304806,768127539,S&T serwis 
+Tomasz,Cieśla,39959,Poland,Warmian-Masurian Voivodeship,Olsztyn,Pilsudskiego 76 ST 
+serwis,10-450,884032008 
+
+Linia   926690: 1434566,385486406,Filip,Wojnowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bolka i Lolka 31,10-696,501125326 
+
+Linia   939494: 1861589,841666729,Hanna,Lachowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Orlowicza 3/4,10-684,+48 600 340 326 
+
+Linia   941575: 944331,384819872,dominik,bugaj,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,1 maja 5a/60,10-117,+48665805905 
+
+Linia   945823: 1066559,169015552,Paweł,Neumann,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pimpickiego 
+
+Linia   955510: 594213,296459571,Maciej,Rapinczuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewko 91,11-010,798702540 
+
+Linia   967855: 250704,952356622,jakub,Błażejak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Złota 9 29,10-689,512 957 545 
+
+Linia   975914: 1441362,332699831,Jakub,Skorupinski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Niałek Wielki 24, Wolsztyn,64-200,570754151 
+
+Linia   977549: 145248,628933460,Jakub,Patejuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Klebark Mały 59,10-687,607939166 
+
+Linia   986779: 103900,500203877,Natasza,Szewczenko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Kazimierza Markiewicza 12 Olsztyn,10-774,+48 508737196 
+
+Linia 1000286: 890958,692919801,Mariia,Kochanova,39959,Poland,Masovian 
+Voivodeship,Olsztyn,Ostrzeszewo 65,10-687,+48572289228 
+
+Linia 1003399: 2253481,946909433,Kapi,Slesle,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Spręcowo 46A 
+
+Linia 1003799: 851282,620972030,Antoni,Adamczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wawrzyczka 1L,10-762,787086532 
+
+Linia 1007807: 1118548,257097498,Oliwier,Małocha,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Nowaka 2/67,10-746,572262932 
+
+Linia 1015780: 1199271,998271871,Tomasz,Fatyga,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Boenigka 8/9,10-686,733757812 
+
+Linia 1022453: 1663478,334261513,Marcin,Sul,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanta 12/26,10-691,515330393 
+
+Linia 1024357: 992377,837768228,Karol,Rochowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kołobrzeska 13L / 38,10-445,500828646 
+
+Linia 1024363: 373122,684460231,Dawid,Grala,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellońska 35/19,10-283,530284365 
+
+Linia 1035138: 1556738,111945192,Franek,Adamczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bałtycka 75b,10-175,660622572 
+
+Linia 1037603: 2214153,517082892,Tomek,Jabłoński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Poranna 8c /13,11-041,607372716 
+
+Linia 1046133: 2085149,444805195,Daniil,Barkhatov,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Świetlistą ,64,10728,+48502663107 
+
+Linia 1051390: 1492762,149539009,Cezary,Borko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Rzedziana, 21,11-041,+48723979698 
+
+Linia 1054257: 2085164,513452873,Artem,Katkov,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Świetlista 64,10-728,+48698267057 
+
+Linia 1056170: 781380,904060955,Oliwier,Charun,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Sielska 22a,10-820,886463524 
+
+Linia 1072753: 2208596,593060351,Oliwier,Uzar,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Orłowicza 8, mieszkanie 60,10-684,510871046 
+
+Linia 1073673: 1537547,706212388,Dawid,Gnat,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Strąkowa 3,10-846,609 256 999 
+
+Linia 1074157: 1409495,285535349,Jakub,Krajewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 77a/9,10-699,797429933 
+
+Linia 1083720: 482275,331124851,dawid,dudziak,39959,Poland,Greater Poland 
+Voivodeship,wolsztyn,Żeromskiego 8/10,64-200,667187919 
+
+Linia 1086285: 1861677,628933460,Olaf,Golebiowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul.Gałczyńskiego 62/3,10-089,514572573 
+
+Linia 1097073: 1467013,951699463,oskar,wronka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jana Boenigka 1a/35,10-685,576946067 
+
+Linia 1101598: 1027719,536034972,Mateusz,markowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,gałczyńskiego 13/24,10-089,692928901 
+
+Linia 1118456: 94403,822838149,Arek,Kowalski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jerzego Popiełuszki 4/26,10-693,791721156 
+
+Linia 1137078: 36641,581442276,Bartosz,Opieczyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,kromera  6/12,10-130,735036486 
+
+Linia 1139831: 2056883,548335998,Andrzej,Matracki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,1 Maja 11 18/19/22,10-118,664987175 
+
+Linia 1143519: 1913775,429158467,paweł,czerniewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Świątki,11-008,516758798 
+
+Linia 1150694: 826401,194237983,justyn,fu,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,janiny wengris 47,10-765,07307892902 
+
+Linia 1153638: 959955,717861164,Kamil,Maleszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ługwałd 169A/1,11-001,665628151 
+
+Linia 1155722: 1898468,350912812,Filip,Kubat,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Warmińska 27/12,11-041,696884577 
+
+Linia 1158368: 753068,404472066,kacper,kacper,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,berzyna 23,64-200,732886416 
+
+Linia 1159532: 773905,712422885,Leo,Gartner,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kresowa 88,11-041,516766570 
+
+Linia 1163284: 720020,816142990,konrad,jamroszka,39959,Poland,Greater Poland 
+Voivodeship,olsztyn,herdera 24/28,10-691,532554465 
+
+Linia 1165416: 957459,249447192,Igor,Abramek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Tomaszkowo, Panny 7,11-034,501989532 
+
+Linia 1175184: 1995112,234595223,piotr,Ostasz,39959,Poland,Warmian-Masurian 
+Voivodeship,OLSZTYN,Kłosowa 67,10-818,574672519 
+
+Linia 1175770: 13945,88045587,Bruno,Koszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Małeckiego 7a/19,10-293,690621011 
+
+Linia 1176983: 550090,754779123,Maciej,Gortatowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Janusza Korczaka 26,10-001,537919317 
+
+Linia 1197141: 389177,193265374,mikolaj,karaszkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,barcza 40 mieszkanie 35,10-685,694832589 
+
+Linia 1198117: 2245116,882345776,Hubert,Kołodziejski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,zientary-malewskiej 55B/7,10-310,603619727 
+
+Linia 1198340: 591676,831930217,Dawid,Borzymowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Sosnkowskiego 2,10-693,792 522 697 
+
+Linia 1199615: 2232328,757787010,Karolina,Olczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Świerkocin 1/2,11-015,795458376 
+
+Linia 1204450: 423559,642054836,Rafał,Wiśniewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Herdera 8/1,10-691,506 916 618 
+
+Linia 1213023: 1938634,770763702,Łukasz,Sudoł,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,mroza 19/55,10-687,720770597 
+
+Linia 1219073: 1297703,351813961,Timon,Wierchowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,219 Kłosowa,10-818,+48577513288 
+
+Linia 1219518: 1534200,833248972,martyna,maciejewska,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,spacerowa,10-656,783739892 
+
+Linia 1222061: 1404807,103944088,Klaudia,Staranowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,dożynkowa 5,10-858,+48604830041 
+
+Linia 1223125: 1348324,306864238,pawel,urbanski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,kieźliny 139,10-317,727937427 
+
+Linia 1234921: 1130499,746877140,Sławomir,Jabłoński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. gen. Stefana Grota Roweckiego 31/62,10-693,+48504019016 
+
+Linia 1237411: 1418974,122338749,Aleksy,Amroziński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Smętka 7/15,10-077,578200688 
+
+Linia 1250215: 216843,316638610,Paweł,Michalczak,39959,Poland,Greater Poland 
+Voivodeship,Mochy,Wolsztynska 1a,64-234,+48 517979146 
+
+Linia 1250355: 405619,821424634,Filip,Florczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,7 wilczynskiego,10-689,512822673 
+
+Linia 1252371: 418638,997160024,Katarzyna,Komiago,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żiżki 8/9,10-070,691281934 
+
+Linia 1263179: 1909669,861714157,Franek,Makowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dożynkowa 94,10-858,+48530880265 
+
+Linia 1263472: 1474977,977864190,Oliwier,Szymkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn  ulica Dworcowa 43/182,10-437,791134363 
+
+Linia 1267855: 162382,406986567,Krystian,Prusaczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ruś 51,10-687,665574037 
+
+Linia 1269550: 366052,955051729,Łukasz,Dzijak,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,lubelska 47b/2,10-410,799983607 
+
+Linia 1272116: 423828,671209938,Miłosz,Gawrylczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Gałczyńskiego 64/8,10-089,511909505 
+
+Linia 1272836: 706983,591183678,Adam,Jasiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Markiewicza 6,10-774,48+ 883001123 
+
+Linia 1290099: 113959,662437873,Bartosz,Kwiecień,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Turkowskiego 5,10-691,880688127 
+
+Linia 1296184: 175202,119333064,Maciej,Gołębiowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Diamentowa 17,10-698,506251804 
+
+Linia 1299228: 783201,638037859,Antoni,Dybionka,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Przemysłowa 13/10,64-200,+48 784 362 881 
+
+Linia 1303216: 1832075,404169208,Bartosz,Bembnowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bankowców 9,10-628,508637402 
+
+Linia 1307933: 522801,748999621,Oliwier,Machowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Liliowa 15/u3 fryzjer,11-041,692944643 
+
+Linia 1308403: 1269280,924019568,Daiana,Yatsenko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zurawia26a/25,11-041,+48506663595 
+
+Linia 1309238: 67498,891927088,Szymon ,Rodak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kubusia Puchatka 6/11,10696,504767244 
+
+Linia 1317982: 725792,354155530,Michal;,Banach,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 77c/12,10-699,515803007 
+
+Linia 1319201: 2155394,860341736,Wiktor,Rebajn,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Iwaszkiewicza 2/31,10-089,782060727 
+
+Linia 1319645: 1468015,444805195,Daniil,Barkhatov,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Swiatlista,64,10001,+48502663107 
+
+Linia 1327676: 1103045,713473910,Filip,Florczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żurawskiego 4/16,10-694,512822673 
+
+Linia 1328781: 1171814,450811461,Szymon,Glowacki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Akacjowa 9 
+
+Linia 1342139: 1345374,641896287,Dawid,Ślesicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 17/33,10-437,696524969 
+
+Linia 1346059: 1202262,418542581,Dawid,Janeczko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zolnierska 31 m. 30,10-560,+48662495124 
+
+Linia 1346255: 545806,275275561,Jędrzej,Urbanowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Warglewo 3 11-015 Olsztynek,11-015,602741200 
+
+Linia 1353894: 1229952,929274106,Renata,Gajdzinska,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Berzyna 79,64-200,48+ 606 895 316 
+
+Linia 1358398: 968202,653971326,David,Kos,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,15 Dywizji 6B/15,10-166,+48500123707 
+
+Linia 1365904: 2180717,567499768,Wiktor,Wiktor,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Komorowska 1,64-200,530053367 
+
+Linia 1389225: 1579322,937563720,Wiktor,Rebajn,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,iwaszkiewicza 2\31,10-089,782060727 
+
+Linia 1389586: 1819230,969817993,Hubert,Ropiak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul.Pomorska 20/20,10-699,601612220 
+
+Linia 1399323: 279463,906368279,Igor,Truszkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pstrowskiego 30B/16,10-602,728993175 
+
+Linia 1400735: 1549778,278599862,kamila,Dąbrowska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gębika 65/24,10-691,786959410 
+
+Linia 1404262: 2115332,683439054,Oktawian,Kotowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Głowackiego 30/7,10-564,791672388 
+
+Linia 1406511: 948366,806987010,Maciej,Faryniarz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Marcina Kasprzaka 15 Ap. 12 Olsztyn,10-057,505 039 978 
+
+Linia 1409321: 1755261,422396218,Anna,Klosowska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kubusia Puchatka 17/2,10-696,500314451 
+
+Linia 1410809: 1883763,302104695,Mikołaj,Salamon,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kołobrzeska 7a/22,10-444,48+ 735 393 081 
+
+Linia 1423421: 1456802,209678821,Patryk,Janicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wilczyńskiego 2c/13, Olsztyn, 10-686,10-686,503387345 
+
+Linia 1424060: 1642211,820984397,Dominik,Sienkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 52/33,10-437,516507365 
+
+Linia 1424815: 1523608,258635484,Adrian,Kłosowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 11b/32,10-558,737906749 
+
+Linia 1425423: 103899,500203877,Natasza,Szewczenko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Kazimierza Markiewicza 12 Olsztyn,10-774,+48 508737196 
+
+Linia 1425665: 1764925,406359451,Katarzyna,Grygorczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Orłowicza 7/50 10-684 olsztyn,10684,+48519780201 
+
+Linia 1442726: 1518664,369259568,adam,cinski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,ksiedza Jerzego Popieluszki 1/38,10-693,+48663085921 
+
+Linia 1447600: 122542,774211135,Paweł,Smoczyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Laszki 1, mieszkanie 18/ Laszki 1, home number 18,10-687,786225469 
+
+Linia 1463017: 1574821,870263681,Xaver,Angrik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Popiełuszki 2/11,10-693,504293426 
+
+Linia 1468257: 2047712,145573223,Kacper,Okoniewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,wędkarska 4/2,11-015,574127171 
+
+Linia 1468359: 1155207,852432440,Dmytro,Martynyuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pana Tadeusza 14/21,10-461,726078867 
+
+Linia 1477552: 2008186,721368075,Olek,Sal,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Janowicza 7/26,10-692,+48 735 958 434 
+
+Linia 1477861: 2252321,692777243,Marlena,Supińska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Tęczowy Las 2A/19,10-687,518442765 
+
+Linia 1479741: 1021193,31576252,Emmanuel,Ibe,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Osińskiego 15 apartament nr 2,10-011,723859175 
+
+Linia 1494901: 1017073,806987010,Wiktor,Sulewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Partyzantów 1/2 Apartment 3,10-522,+48 797 864 746 
+
+Linia 1495955: 1167952,620549554,Krzysztof,Szczubełek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,andersa 54/7,10-693,+48786819620 
+
+Linia 1512835: 576364,440002368,Igor,Gembicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanarkowa 3,11-041,506086194 
+
+Linia 1512874: 1290089,865791433,Adrian,Kłosowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn 10-558  ul. Żołnierska 11b / 32     city: Olsztyn, zip-code 10-558, street: 
+Żołnierska 11b/32,10-558,+48737906749 
+
+Linia 1517492: 768612,916797468,Piotr,Liberadzki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,mroza23a/3,10-692,888719912 
+
+Linia 1520854: 130647,95163852,Jakub,Polakowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Słupy 57g,10-381,693056358 
+
+Linia 1524437: 572507,536180294,Wiktor,Sulima,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gałczyńskiego 62/4,10-089,780146319 
+
+Linia 1529359: 2180522,665496311,Kacper ,Ziółkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn ,Dorex 
+
+Linia 1530253: 1241264,157051245,Rafał,Nawotczynski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bolka i Lolka 64,10-696,784506916 
+
+Linia 1531793: 1759133,145451923,Jakub,Sobczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Kazimierza Jagiellończyka 20A/1,10-062,667202807 
+
+Linia 1537298: 2054179,719358555,Joanna,Czeszak-Zawieja,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Karpicko ul. Kwiatowa 6,64-200,795585967 
+
+Linia 1539170: 459885,795777613,Oliwier,Kisiel,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Morenowa 1a/24,10-687,519190438 
+
+Linia 1545462: 2240661,197456098,Nikol,Halik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego 1 m.186,10-061,697316896 
+
+Linia 1545731: 1571329,226896434,Kacper,Szydlowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stanisława Flisa 4/4,10-687,505010809 
+
+Linia 1546388: 2000510,753399222,szymon,chynczewski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,maleckiego 8/28,10-900,507054809 
+
+Linia 1548311: 2327802,423034943,Kuba,Pożegowiak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,14-300 Morąg Wróblewskiego 12/2,14-300,500616923 
+
+Linia 1548371: 2152237,384530020,Kacper,Klapsa,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Rożka 20/2,64-200,+48 608 814 920 
+
+Linia 1549148: 2291632,778109258,Patryk ,Grabowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kutrzeby 3/26 10-693,10-693,532923304 
+
+Linia 1553299: 2188514,482864524,Mikołaj,Cybul,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wojska polskiego 20a,10-229,601721159 
+
+Linia 1562764: 511514,189666372,igor,Bączyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,olsztyn złota 10/5,10-698,48+ 504032692 
+
+Linia 1571631: 2296317,133372362,Nikol,Halik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego 1,10/061,697316896 
+
+Linia 1573434: 2330218,303060581,Filip,Wawrzyński,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Chorzemin 25,64-200,726757375 
+
+Linia 1577476: 1814091,933779432,Ksawery,Kańczuga,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Olsztyn Iwaszkiewicza 36/7,10-089,669024095 
+
+Linia 1578154: 306649,470426960,Dawid,Ślesicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 17/33,10-900,696524969 
+
+Linia 1578184: 282648,165119913,Leo,Gartner,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kresowa 88,11-041,609748252 
+
+Linia 1582134: 2038329,936286220,antoni,Szymański,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Jacka Kuronia 9/3,10-166,797308587 
+
+Linia 1583959: 740558,158965969,Jakub,Radziewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Klonowa 8,11-015,883332759 
+
+Linia 1596163: 1264808,190736501,Karol,Koszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wachowskiego 2/5,10-691,+48726391520 
+
+Linia 1620713: 1947363,956314804,Gabriela,Krzywicka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Okrągła 71,10-836,790225358 
+
+Linia 1621768: 1206103,938024359,Mateusz,Bojaruniec,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gałczyńskiego 25/51,10-089,798717256 
+
+Linia 1622462: 1979997,179755987,Dominik,Łotkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żurawia 24C/4,11-041,502515420 
+
+Linia 1624571: 290064,427610745,szymon,sobczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,ul. Zietary Malewskiej 55b/13,10-308,692474024 
+
+Linia 1630787: 773463,465283784,Wiktor,Dembek,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Garbarska 3/5,64-200,664-950-710 
+
+Linia 1632100: 1869320,899655145,Jakub,Obudzinski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 78B/17,10-699,795957620 
+
+Linia 1633046: 1039070,567522770,Mykyta,Vrublevskyi,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zolnierska 14c / 213,10-561,577653427 
+
+Linia 1636353: 1500771,749298531,Jan,Kryczka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 1A / m. 19,10-698,698962896 
+
+Linia 1639282: 491128,734937256,Tymoteusz,Bieńkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Leonarda Turkowskiego 10,10-691,501290233 
+
+Linia 1641948: 1992427,438768659,Igor,Kamiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Burskiego 14/9,10-686,661731599 
+
+Linia 1644240: 1533378,941497578,Marcin,Witt,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 14E/21,10-561,726703063 
+
+Linia 1646578: 1167057,234581741,Kamil,Kowalczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pana Tadeusza 3/9,10-460,503863420 
+
+Linia 1654021: 1900705,770763702,olej,Wieczorek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,kanta 12/38,10-687,661414660 
+
+Linia 1655683: 2158497,903545162,Przemysław,Smoliński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Agrestowa 2,11-015,537402805 
+
+Linia 1656811: 2049474,378665960,Jakub,Borzyszkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wilczyńskiego 6c/24,10-686,+48883030525 
+
+Linia 1667522: 1495155,421031977,Paweł,Sztabiński,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,stefana okrzei25a/7,10-266,534628159 
+
+Linia 1670951: 2090926,692919801,Olena,Stoliar,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bociania 8,11-041,+48787212743 
+
+Linia 1672325: 834363,447300781,karol,Jasiulewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,JEZIOŁOWICZA 9/14,10/690,504688709 
+
+Linia 1672510: 28553,31576252,Leon,Mołdysz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellonska 57g apartament 5,10-272,604784349 
+
+Linia 1685046: 1167062,878178203,Joe,Amba,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,barcza 34,10684,470520987 
+
+Linia 1687368: 2091597,197316437,Monika,Rajch,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Immanuela Kanta 12/29,10-691,667887209 
+
+Linia 1687971: 67411,533718234,Jakub,Urbanski,39959,Poland,Silesian Voivodeship,Olsztyn 
+k.Czestochowy,Debowa 26,42-256,721300033 
+
+Linia 1691365: 791738,888517085,Bartek,Merchel,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellońska 58c/18,10-238,531991690 
+
+Linia 1698595: 1305848,768127539,Zofia,Stasiuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Skrzetuskiego 3B,11-041,500274731 
+
+Linia 1703677: 1621621,483601128,Adam,Dolata,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zientary-Malewskiej55a/4,10-310,665963258 
+
+Linia 1719884: 210595,278239030,mateusz,pajdak,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,mroza7/12,10-692,516392787 
+
+Linia 1723789: 828672,363989852,Gabriel,Żywanowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Maryny Okęckiej Bromkowej 7/7b,10-698,792450306 
+
+Linia 1727192: 570630,497401555,Kacper,Chętnik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanta 12 mieszkania 33,10-691,571 280 506 
+
+Linia 1735149: 1478786,125939875,Patryk,d’Aystetten,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Juliana Dadleza 5/43,10-687,+48601506089 
+
+Linia 1735745: 2215372,666598142,Bartek,Piosik,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Nowe Tłoki 63D,64-200,692950551 
+
+Linia 1755690: 1758891,756648765,Piotr,Kręcki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bajkowa 19,10-696,533480344 
+
+Linia 1755711: 65571,412022934,Maksymilian,Krysiak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,orła białego 6 Łupstych,11-041,+48666078163 
+
+Linia 1758037: 1269939,540314180,jakub,czeliński,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Ryszarda Knosały 7b/16,11-041,451241200 
+
+Linia 1761002: 609219,955270594,Marcin,Powirski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stramkowsiej 11/12,10-689,733288866 
+
+Linia 1762020: 1371264,558444725,jakub,kosiarek,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,boenigka 8/8,10-686,505406685 
+
+Linia 1762990: 1290116,258635484,Adrian,Kłosowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 11b / 32,10-558,+48737906749 
+
+Linia 1797544: 631410,365452281,Janek,Pepol,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,sienkiewicza 3/5,10-268,798681205 
+
+Linia 1804223: 1691589,132931728,Ela,Ciesielska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wyszyńskiego 4/91,10-455,517341164 
+
+Linia 1816737: 448498,55896133,Kacper ,Rachubka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 37/20,10-685,+48530982164 
+
+Linia 1830455: 680217,769112135,gabriela,prokop,39959,Poland,Warmian-Masurian 
+Voivodeship,Stawiguda,olsztyn stawiguda wilgi 5,11034,797515977 
+
+Linia 1834915: 1446287,695731801,Amelia,Kulig,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wilczyńskiego 2E/9,10-686,694496820 
+
+Linia 1842365: 1356331,574184716,Paweł,Jankowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Waplewo 5B,11-015,692944352 
+
+Linia 1845941: 2192194,901252468,Filip,Kępa,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn Żołnierska 12b-69,10-559,+48573073470 
+
+Linia 1849246: 516658,663888411,piotr,LIberadzki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mroza23a 
+
+Linia 1856829: 1956893,155511166,nikodem,kusiak,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,kanta12/32,10-691,699713948 
+
+Linia 1866561: 756312,499390762,Dawid,Piotrowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Herdera 7/9,10-691,791317618 
+
+Linia 1868090: 1216266,522642501,szymon,jaguszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,żniwna 84,10-811,884635206 
+
+Linia 1874816: 1421975,536397139,Zuzanna,Kowalczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 59/82,10-437,511637588 
+
+Linia 1879304: 1332503,969817993,Oliwier,Bieńkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jaroszyka 18/11,10-687,533549007 
+
+Linia 1891599: 2141063,384920435,Jakub,Kiryluk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Juliana Dadleza 3/7,10-687,793432913 
+
+Linia 1898300: 1896472,890517317,Oliwier,Stańczak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Warszawska66/25,10-084,690996191 
+
+Linia 1903278: 
+1992089,543325111,Magdalena,Fiedorowicz-Nowak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Rzędziana 30,11-041,+48504160091 
+
+Linia 1916502: 1280002,555018088,Kamil,Zdun,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Herdera 7/10,10-691,537691159 
+
+Linia 1922479: 238409,742791762,Bartosz,Baranowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jeziołowicza 10/29,10-690,735963791 
+
+Linia 1927516: 2329383,648216849,Adam,Kołaczkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,10- 686 Olsztyn  
+
+Linia 1934691: 469001,165119913,Antoni,Przewłocki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Rzeszowska 2,10-678,577558122 
+
+Linia 1940871: 791970,427307253,Piotr,Kurian,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Aleja Warszawska 5/6,10-081,791791867 
+
+Linia 1945090: 1207445,812866192,Mateusz,Schmiel,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Aleja Wojska Polskiego 8/6,10-229,798578492 
+
+Linia 1950649: 1403233,619079412,Antek,Mieczkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Iwaszkiewicza 40/19,10-089,720772069 
+
+Linia 1950940: 364478,240515039,Szymon,Rodak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kubusia Puchatka 6/11,10-696,504767244 
+
+Linia 1960729: 1493765,928090631,Adam,Urbański,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,sucharskiego 3/29,10-699,733663878 
+
+Linia 1962356: 369929,820184343,Igor,Janicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żurawia 22F,11-041,572970120 
+
+Linia 1962546: 855054,148663710,Jakub,Niedzwiedzki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 6/31,10-699,+48503321343 
+
+Linia 1964234: 478623,533088314,Aleks,Bandurski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Okrągła 77,10-836,730980910 
+
+Linia 1965167: 108887,551093355,Maciej,Folgmann,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 58 
+
+Linia 1969696: 93135,820523069,kacper,kacper,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,boenigka 34A/35 10-686,10-686,731708408 
+
+Linia 1982891: 921535,812866192,Kacper,Kaźmierczak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ulica Żeromskiego 3/18 Olsztyn,10-350,783865061 
+
+Linia 2028225: 2198297,197456098,Nikol,Halik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego 1 ,10-061,697316896 
+
+Linia 2033864: 2257814,413245175,Antoni ,Moszczyński ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn  ,Szczęsne, Widokowa 9,10-687 Olsztyn ,691996467 
+
+Linia 2034802: 367471,623240724,Olaf,Lisicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Hozjusza 9a 1,11-041,+48 789 477 300 
+
+Linia 2043416: 558555,768127539,Maciej,Cieśla,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Skrzetuskiego 3B,11-041,+48884032008 
+
+Linia 2056938: 1673802,843933533,Dawid,p,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,lengowskiego 9/6,10051,517671433 
+
+Linia 2057632: 511959,639447610,mateusz,liberda,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,rumiankowa 
+
+Linia 2063378: 1816152,942183896,Norbert,Kramski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Niałek Wielki 76,64-200,+48602581054 
+
+Linia 2066622: 1897185,489151274,Borys,Rybiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 31/16,10-685,518290858 
+
+Linia 2068421: 1386403,924043666,Patryk,Pierzchała,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Franciszka Hynka 7/40,11-001,+48794773958 
+
+Linia 2070181: 1320740,560476605,Mateusz,czułowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Piłsudskiego 64e Win Cin,10-449,661970808 
+
+Linia 2071658: 1189804,809807664,Artur,Tyszka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 122/17,10-687,733063023 
+
+Linia 2097493: 2231832,270316567,Olena,Kovalchuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Spółdzielcza 1 ,11-041,+48510548551 
+
+Linia 2100959: 424845,746484985,Kacper,Dziekoński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mroza 34/2,10-437,739040715 
+
+Linia 2102804: 420104,504874887,Tymoteusz,Kamper,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Różowa 12,10-142,721882122 
+
+Linia 2106634: 1015948,782108018,Radosław,Szwedo,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Świerkocin 20E,11-015,697769708 
+
+Linia 2117268: 2310811,737843798,Kacper,Marchliński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Owocowa 37,10-860,+48 665 750 845 
+
+Linia 2128368: 2081279,589187669,Oleksandr,Shkinder,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Marii Konopnickiej 3/5,64-200,+48668173701 
+
+Linia 2128969: 2253364,306218267,Marcin ,Majewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Aleja Przyjaciół 5/3,10-147,668839980 
+
+Linia 2133676: 660669,515376752,Jakub,Stawski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stawigudzka 10/34,10-687,798187534 
+
+Linia 2135950: 466095,495764667,Damian ,Tobaj ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Włościańska 1,10-857,+48 690375031 
+
+Linia 2142839: 2353595,296504546,Radosław,Paderewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Reymonta 22 m 2 
+
+Linia 2143044: 1177024,168247169,Franciszek,Rogowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Szkolna 16/31,11-015,668609487 
+
+Linia 2144322: 1174414,512605132,Jakub,Jakubowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 25/2,10-685,+48783962286 
+
+Linia 2146145: 2198802,344750137,Igor,Cis,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Borowa 16/40,10-127,451579782 
+
+Linia 2147444: 267681,965217929,Kuba,Lipecki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zonkilowa 5,11-041,503460896 
+
+Linia 2156260: 297062,138950467,Adam,Frąckiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jana Boenigka 11/4,10-686,502477083 
+
+Linia 2161887: 1065556,822128238,Filip,Dąbrowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Pisz,Olsztynska 56c,12-200,511713412 
+
+Linia 2164176: 1819914,476423527,Vlad,Lysiuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,stanisława żurawskiego 14/9,10-689,780027167 
+
+Linia 2190438: 2259210,754476832,Alan,Zembrzuski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Macieja Rataja 62/35,10-260,733191283 
+
+Linia 2201573: 203579,690782571,Michał,Barski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Niałek Wielki 97F,64-200,694 800 443 
+
+Linia 2214679: 2218479,638212488,Marcelina ,Przybyła,39959,Poland,Lodz 
+Voivodeship,Wolsztyn,Błocko 8/3,64-200,534236024 
+
+Linia 2242278: 1352866,788832892,Arek,Królak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Tadeusza Młynka 2,10-756,731854282 
+
+Linia 2247296: 900605,740010408,antek,jodko,39959,Poland,Greater Poland 
+Voivodeship,wolsztyn,poprzeczna 18,64-200,+48 606126684 
+
+Linia 2255206: 388385,804640348,oskar malinowski, 
+Malinowski,39959,Poland,Warmian-Masurian Voivodeship,Olsztyn warmińsko mazurskie,Olsztyn 
+Murzynowskiego 3/6 Polska,10-684,512 291 781 
+
+Linia 2258437: 1499164,714013263,Kamil,Orzechowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Trylińskiego 10/1 
+
+Linia 2258439: 1704843,401554222,Bogdan,Lenkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Antonowicza7/F,10-698,665030900 
+
+Linia 2270469: 904396,913257012,filip,hanas,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Leśna 10/40,10-173,534065284 
+
+Linia 2293817: 589881,106519009,Avista 
+Agnieszka,Kaczmarczyk,39959,Poland,Warmian-Masurian Voivodeship,Olsztyn,Metalowa 
+4,10-603,693125853 
+
+Linia 2301525: 647560,461077495,Jakub,Mądry,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żółta10A Apartment30 Third floor,10-140,665558944 
+
+Linia 2312826: 848615,992829486,Łukasz,Pycek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Kunki 10A,11-015,+48572072593 
+
+Linia 2315538: 629926,906065033,Grzegorz,Mironiuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bilitewskiego 4/69,10-693,+48 693 309 959 
+
+Linia 2323311: 2218481,638212488,Marcelina ,Przybyła,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Błocko 8/3,64-200,534236024 
+
+Linia 2344130: 1333986,271879433,alan,biedrzycki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,siewna 31,10-830,533593523 
+
+Linia 2347000: 495004,380488397,Jakub,Opiela,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Murzynowskiego 22/23,10-684,501390422 
+
+Linia 2352373: 1017412,239776798,Kuba,Grudnowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gałczyńskiego 37/9,10-089,501654432 
+
+Linia 2353735: 1221800,131504904,Bartosz,Zdun,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Cicha 3b,10-313,739090825 
+
+Linia 2371859: 1845129,872398482,Szymon,Bukowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Myszki Miki 10,10-696,735981448 
+
+Linia 2375786: 1821557,967219058,Vadym,Redka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Juliana Tuwima 5a,26,10-747,880380399 
+
+Linia 2397714: 605659,327043981,Janek,Wiśniewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Orłowicza 1/32,10-684,783502008 
+
+Linia 2399420: 155805,711774030,Leon,Rosiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kolejowa 7 apartament 3,10-284,515946509 
+
+Linia 2403720: 2080225,663116097,Artur,Bilonozhko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ernesta Wiecherta 7/18,10-691,+48730351216 
+
+Linia 2406700: 387501,638015121,Nikodem,Molicki,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Polna 4,64-200,+48512227121 
+
+Linia 2412311: 1391086,506853777,louis,kozlowski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,orłowicza 7/50,10-684,48519780201 
+
+Linia 2419087: 1084553,718765870,Bartłomiej,Obniski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 7, 11-041 Olsztyn Sklep wędkarski Sezon,11-041,+48 666 595 226 
+
+Linia 2425245: 1831509,886464284,Nikodem,Wolf,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Adama Mickiewicza 14a/3,10-509,535183939 
+
+Linia 2425789: 302725,676620387,Adam,Głowacki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Królowej Jadwigi 8/3,10-132,887081011 
+
+Linia 2426490: 1798305,899277725,Filip,Daniluk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bolka i Lolka 35,10-696,734405866 
+
+Linia 2429007: 1206712,870412755,Sabina,Gadomska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Księdza Jerza Popiełuszki 24/38,10-693,693623714 
+
+Linia 2436044: 1678312,394782274,Jakub,Kamper,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Różowa 12,10-142,691068315 
+
+Linia 2449110: 553626,273936490,Aleksander,Szanter,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Franciszka Barcza 38/34,10-685,501451108 
+
+Linia 2454158: 1856676,764632623,Maksymilian,Bernat,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Leśna 32/31,10-173,+48606195131 
+
+Linia 2466166: 933464,334652966,Adam,Wojdylo,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kasztanowa 13,10-156,501 601 176 
+
+Linia 2473416: 1521915,256356563,Antoni,Górny,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Misia Uszatka 24,10-696,661655444 
+
+Linia 2473500: 1376225,841666729,Daniel,Skinder,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Augustowska 28,10-683,58514430 
+
+Linia 2491141: 231120,241212100,Natalia,Szewczenko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kazimierza markiewicza 12,10-774,+48508737196 
+
+Linia 2504797: 1571324,226896434,Kacper,Szydlowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stanisława Flisa 4/4,10-687,505010809 
+
+Linia 2504817: 1371985,730671283,szymon,makutynowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Składowa 1A,11-015,730983500 
+
+Linia 2514466: 1305358,803239292,Michał,Ozga,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,dworcowa 64/30,10-437,516478884 
+
+Linia 2531784: 1515050,463946033,Szymon,Bobrycki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,burskiego 32/5,10-686,511493267 
+
+Linia 2545837: 883544,890867699,Kuba,Kołakowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wojska Polskiego 56a/8,10-292,796835478 
+
+Linia 2548109: 2331683,619490449,Artur,Cieszyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pana Tadeusza 12/38,10-461,666812531 
+
+Linia 2551112: 2065884,327167865,Muslem,Mahmoudi,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wańkowicza 14/20,10-684,782661991 
+
+Linia 2557493: 500667,652652235,Kacper,Chodubski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Grunwaldzka 4,11-015,516943669 
+
+Linia 2558643: 1296166,888232486,Kajetan,Zbutowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,69,orłowicza 8,10-684,505273453 
+
+Linia    12608: 851283,620972030,Antoni,Adamczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wawrzyczka 1L,10-762,787086532 
+
+Linia    14295: 1115389,760343984,Marcin,Żarski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 19A/26,10-560,+48577593506 
+
+Linia    16185: 1593530,665186037,Borys,Kurłowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wyszyńskiego 18/128,10-450,791080161 
+
+Linia    21496: 1993095,551521420,Jakub,Pieryszcz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 12B/81,10-559,660564112 
+
+Linia    31641: 2266835,272534522,Filip,Aurast,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,8 Zbożowa,10-807,791087490 
+
+Linia    40134: 1476578,583306023,Milosz,Piatek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bankowców 11,10-628,517649486 
+
+Linia    54004: 1991212,173487828,Anna,Jurewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Niepodległości 16 KW PSP,10-045 Olsztyn,511610165 
+
+Linia    60123: 948110,809807664,Michal,Tyszka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn Bartąska 122/17,10-687,733063023 
+
+Linia    76882: 1861639,489151274,Borys,Rybiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 31/16,10-685,518290858 
+
+Linia    78913: 813472,603838733,Mateusz,Bogut,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gębika 21/4,10-691,+48 506618730 
+
+Linia    89263: 1538160,537794195,marcin,Moscicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wilczynskiego 2B/12,10-686,606326357 
+
+Linia    89679: 1661314,499069284,Michał,Płocha,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Żółkiewskiego 24,11-041,698840616 
+
+Linia    90347: 1196387,664066451,Szymon,Kaczmarczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellońska 55b/43,10-283,574638777 
+
+Linia   101267: 662122,676139664,Robert,Wasielewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Generała Stanisława Maczka 28/16,10-693,792504007 
+
+Linia   102909: 2298265,554532285,Artur ,Bilonozhko ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn ,Ernesta Wiecherta 7/18,10-691,+48730351216 
+
+Linia   103653: 863155,986566737,Antonina,Żuchowska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Henryka Sienkiewicza 11a/7,10-900,575762003 
+
+Linia   121764: 806900,247363794,Szymon,Urbanowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jaroszyka 19/49,10-900,796478463 
+
+Linia   126672: 65806,55896133,Oliwier,Rudziński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Murzynowskiego 5/9,10-684,790250093 
+
+Linia   126939: 155770,942183896,Beniamin,Jazdon,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Bohaterów Bielnika 26C,64-200,0048691433533 
+
+Linia   130504: 921725,635731470,Bartosz,Wieczorek,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Garbarska 9/58,64-200,697 344 519 
+
+Linia   131431: 1017138,806987010,Wiktor,Sulewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Partyzantów 1/2 Apartment 3,10-522,797 864 746 
+
+Linia   131843: 
+1506695,117058226,sebastian,poetruszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,okulickiego4/13,10-606,668092499 
+
+Linia   132660: 1106417,810377407,Hubert,Iwanow,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,11-041 Olsztyn, ul Ketlinga 5,11-041,+3530892202830 
+
+Linia   141997: 2348152,629354513,Artur,Trzciński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Morenowa 5B/10 Olsztyn ,10-687,579514298 
+
+Linia   141999: 825957,205573358,Maciej,Rudnicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pstrowskiego Wincentego 14I/4 
+
+Linia   145646: 1938843,597356478,Sylwia,Sobieska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul .Jarocka 74b/0,10-699,792380804 
+
+Linia   147901: 1402289,809053665,Mateusz,Smoczyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bolesława Laszki 1/18,10-687,798865384 
+
+Linia   154198: 1502866,749298531,Jan,Kryczka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 1A m/19,10-698,698962896 
+
+Linia   155918: 434901,361063654,Tomasz,Domagalski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Okulickiego 8/32,10-693,690566429 
+
+Linia   163052: 786379,712339087,Antek,Waligórski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Nowe Tłoki 24A,64-200,515604396 
+
+Linia   164295: 1812264,991443197,m,e,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Bartąska 116/5,10-689,601557394 
+
+Linia   169396: 2331682,619490449,Artur,Cieszyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pana Tadeusza 12/38,10-461,666812531 
+
+Linia   184173: 1090853,523619254,Dawid,Uscinowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 62, apartament number 11,10-689,+48 508664545 
+
+Linia   202693: 797465,712422885,Igor,Gembicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanarkowa 3,11-041,506086194 
+
+Linia   222304: 1314336,270054629,Paweł,Metzler,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Gajewskich 1e/3,64-200,609 600 400 
+
+Linia   236034: 591701,129896777,Miłosz,Zalewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąg Miła 22,10-687,505403543 
+
+Linia   241982: 1496406,671688178,Michal,Boltralik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Partyzantów 69/3A,10-402,698233881 
+
+Linia   246670: 124527,412022934,olaf,golebiowski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,ul.Gałczyńskiego 62/3,10-089,514 572 573 
+
+Linia   253158: 46521,552246138,maciek ,sosnowy ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gutkowo 43,11-041,512388029 
+
+Linia   255082: 1367952,991251364,Coral Travel,Karen 
+Kulczyńska,39959,Poland,Warmian-Masurian Voivodeship,Olsztyn,ul. Tuwima 26,10-748,+48796443780 
+
+Linia   255220: 1141382,532915812,Filip,Błoszyk,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Wiśniowa 1,64-200,48+789022797 
+
+Linia   257897: 1169506,303502509,Kacper,Majewski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,jarocka 64 /24,10-600,505541862 
+
+Linia   258311: 2093561,560984226,szymon,nasiadka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Pana Tadeusza 4/51,10-461,+48796239309 
+
+Linia   271927: 1387371,150632132,Jakub,Nicewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kętrzyńskiego 11/5,10-423,+48516796792 
+
+Linia   279484: 2019182,392442667,Maciej,Kopeć,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Szczekin-Krotowa 1,10-759,+48733714001 
+
+Linia   285636: 1689640,966232844,Adrian,Panewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stanisława Żurawskiego 23/4,10-689,510665872 
+
+Linia   305358: 1106713,483402166,jakub,walter,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Wiśniowa 3,11-015,514276375 
+
+Linia   306086: 1068172,158742622,Aleksandra,Kuczynska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,BARCZA 48/34,10-685,730190775 
+
+Linia   309744: 460654,510230000,Mikołaj,Komiago,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żiżki 8/9,10-070,691281933 
+
+Linia   330422: 424672,983978646,Lukasz,Gralczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Gołdapska 71,10-633,534051001 
+
+Linia   331129: 647770,982554346,Julia,Wółkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kołobrzeska 14A/21,10-443,511271650 
+
+Linia   333410: 1805934,468311276,Dawid,Kornatowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 174/18,10-687,737166410 
+
+Linia   333860: 1653563,201590496,Damian,Orzechowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Działkowa 62,10-861,511918278 
+
+Linia   335840: 1311638,331959910,Maciej,Skutnik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Katowicka 2a/33,10-252,690699336 
+
+Linia   339298: 373280,818347164,Kajetan,Niedzwiecki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 14D/56,10-561,661816419 
+
+Linia   340385: 612644,824478137,Jakub,Radziewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Ul. Klonowa 8,11-015,0000000 
+
+Linia   350554: 1647185,610521696,Daniel,Wenderlich,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Marcina Kapsrzaka 9/17,10-057,506703947 
+
+Linia   355756: 1433859,921757742,Antoni,Kowalski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn, Bartąska 12/27,10-699,+48573260843 
+
+Linia   357381: 294867,508801741,Piotr,Ambroziński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Augustowska 38/12 Olsztyn,10-683,730085685 
+
+Linia   364193: 978131,574318338,Michał,Friedrich,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Grunwaldzka 9B/30,10-123,885561837 
+
+Linia   371642: 1027485,901896642,Tomasz,Bogdanski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul.Sikorskiego 2f,10-088,530755830 
+
+Linia   371955: 6468,97399273,Karol,Cielaskiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zurawia 26A/41,11-041,+48 792 040 438 
+
+Linia   393744: 1988820,575482473,Kamil,Jaroszewicz,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,5 Stycznia 12/4,64-200,+48 798971975 
+
+Linia   396979: 2135094,820984397,Antoni,Augustynowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zolnierska 33/61,10-560,515168628 
+
+Linia   399235: 1139515,617157314,Mateusz,Jaguszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żniwna 84,10-811,572156214 
+
+Linia   401470: 896527,514465708,Maciek,sosnowy,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gutkowo 43,11-041,512388029 
+
+Linia   418628: 580314,949453907,Mateusz,Kozlowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanarkowa 17b,11-041,+48 531 764 764 
+
+Linia   420582: 1650794,505305505,Aleksander,Ostaszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego18/19,10-061,603853895 
+
+Linia   426532: 2332598,597498318,Jakub,Fronczak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Murzynowskiego 22/34  
+
+Linia   426580: 1034166,548671734,jan,kowalski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,galczynskiego 13/4,10-089,516725339 
+
+Linia   435109: 1788665,272349608,Felip,Felip,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Jasna 12,64-200,514276770 
+
+Linia   438630: 365778,982417195,Kacper,Kleczewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn , Stawigudzka 7/94,10-687,792420081 
+
+Linia   438954: 337059,779887983,Aleksander,Rudziński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Złota 9/17,10-698,575066244 
+
+Linia   444400: 2164599,612160360,Grzegorz,Dudaniec,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ErnestaWiecherta 35/24,10-691,733535049 
+
+Linia   464389: 2004347,477947041,Adrianna,Grzegolec,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Janowicza 4/19,10-692,572394149 
+
+Linia   469974: 385007,867312459,tomasz,ussorowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Aleja Warszawska 72/9,10-900,502832111 
+
+Linia   474706: 2062155,256995800,Bartosz,Sawiniec,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Skierniewicka 12,10-614,505407677 
+
+Linia   479735: 1279935,121865016,aleksander,bus,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Srebrna2/12,10698,692506363 
+
+Linia   491475: 364513,714624962,MAteusz ,Kowal ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pimpickiego 
+
+Linia   493930: 1416719,387896922,Wiktoria,Wieczorek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kłosowa 4a,10-900,732799278 
+
+Linia   499794: 2354194,296504546,Radosław,Paderewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Reymonta 22 m 2,10-334,+48 690936990 
+
+Linia   502438: 692712,482409782,Mariusz,Piatczyc,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jerzego Burskiego 22/6,10-686,504007607 
+
+Linia   502637: 902931,553958085,Witold,Romański,39959,Poland,Silesian 
+Voivodeship,Olsztyn,Maurycego 10,42-256,531415651 
+
+Linia   510910: 1221675,195726295,Michał,Andruszkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żniwna 47,10-810,+48512055235 
+
+Linia   518458: 1702894,721368075,Mikołaj,Krajewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mazowiecka 8/15,10-699,+48579066107 
+
+Linia   522588: 1467008,951699463,oskar,wronka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jana Boenigka 1a/35,10-686,576946067 
+
+Linia   528714: 1977329,789724311,marcel,burzynski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,barcza 48/116,10-685,+48 695812008 
+
+Linia   530798: 
+1947747,481425925,Aleksandra,Ramatowska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Popiełuszki 32/57,10-693,660438803 
+
+Linia   547990: 570633,497401555,Kacper,Chętnik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanta 12 mieszkania 33,10-691,571 280 506 
+
+Linia   548535: 855676,238515620,Mikołaj,Komiago,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żiżki 8/9,10-070,691281933 
+
+Linia   548819: 1256782,270462550,Dorian,Dominik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Lesna 28/21,10-173,+48508808407 
+
+Linia   551276: 1644847,221137295,Bartosz,Kluziak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Władysława Orkana 18/2,10-012,575372659 
+
+Linia   551616: 250354,243653937,Małgorzata,Orych,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Jerzego Bukowskiego 2/82 
+
+Linia   551617: Olsztyn POLAND,10-699,048789789898 
+
+Linia   556702: 2295418,149326361,Oskar,Bartnik,39959,Poland,Pomeranian 
+Voivodeship,Gdansk,Olsztynska 4E/10,80-395,+48660938146 
+
+Linia   556799: 2176617,360707596,Robert,Szyłański,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellońska 54/36,10-900,731080316 
+
+Linia   558484: 1505213,543001909,Kuba,Szostek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Andersa 5/14,10-693,510407287 
+
+Linia   563582: 783591,455509476,Bartosz,Wilk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Długosza 18,11-015,500482376 
+
+Linia   564312: 2127007,145920212,Igor,Zarębski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Samulowskiego 3/2,10-530,666037941 
+
+Linia   591122: 1325562,229109339,Zbigniew,Markowski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Sturnego 2,64-200,798719922 
+
+Linia   592467: 5077,62392598,Kacper,Wieczorek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 17/37,40-615,+48883554080 
+
+Linia   597878: 2323269,589018900,Szymon,Burzynski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 45/45,10-437,513259960 
+
+Linia   601877: 780493,345904133,Miłosz,Dargiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Działkowa 54,10-861,535 198 648 
+
+Linia   607740: 1515263,131908443,Bogumil,Najmowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 113/25,10-687,798734938 
+
+Linia   608356: 156090,624277584,Oliwier,Chudzik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Prosta 1/2/13,10-028,+48794932006 
+
+Linia   611616: 2259370,156216622,Maksymilian,Likszo,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Sucharskiego 6/23,10-693,533974087 
+
+Linia   613956: 538620,485446738,Mikołaj,Siemianowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Popiełuszki 18/34  
+
+Linia   617523: 2239024,512951968,Artur,Wojciechowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Generała Stefana Grota Roweckiego 4/12,10-693,732723634 
+
+Linia   620557: 1234541,554302612,Damian,Czok,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Adamowo 4H/2,64-200,+48661830231 
+
+Linia   621559: 155541,964799721,Daniel,Wiliński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 25/9,10-685,883 514 788 
+
+Linia   635450: 2160174,230973852,Filip,Rynkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Świtezianki 1/88,10-464,531404960 
+
+Linia   650365: 1704752,401554222,Bogdan,Lenkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Antonowicza7/F,10-698,665030900 
+
+Linia   656662: 2122015,593060351,Franek,Korzeniecki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Panasa 8, mieszkanie 7,10-691,531442660 
+
+Linia   662493: 1913073,899655145,Jakub,Obudzunski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 78b/17,10-699,795957620 
+
+Linia   681472: 2019005,975102831,Krystian,Urbanowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Orlowicza 25/37,10-684,501340029 
+
+Linia   700715: 979304,722095209,Mikołaj,Marciniak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 61/36,10-437,+48518675293 
+
+Linia   702345: 686252,609968941,Joanna,Komar,39959,Poland,Greater Poland 
+Voivodeship,Olsztyn,Tracka 5 
+
+Linia   713171: 1486544,300184431,Mateusz,Sidorowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jeziołowicza 7/19,10-690,728480494 
+
+Linia   724390: 89478,810586860,Damian,Krysiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mieczysława Orłowicza 19/5,10-684,665635987 
+
+Linia   762529: 2251642,199423701,Krystian,Chwala,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kossaka 34/3,10-349,725876941 
+
+Linia   767033: 1181276,874508554,Hubert,Berent,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Kazimierza Jagiellończyka 8a/16,11-041,500077614 
+
+Linia   781594: 2257878,118672892,Oleksandr,Shkinder,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Marii Konopnickiej 3\5,64-200,668173701 
+
+Linia   790720: 478548,198360185,Filip,Duber,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,1 zacisze,64-200,695196119 
+
+Linia   804491: 432141,398697642,Miłosz,Zalewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąg ulica Miła 22,10-687,505403543 
+
+Linia   815584: 1818746,468621202,Stanisław,Olkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,pstrowskiego 17/57,10-601,608194508 
+
+Linia   827328: 2240662,197456098,Nikol,Halik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego 1 m.186,10-061,697316896 
+
+Linia   836220: 479354,591520265,Dominik,Wawrzyniak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 4 / 6,10414,794718310 
+
+Linia   840965: 961781,293406066,Franek,Ciepliński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 4/30,10-699,577783353 
+
+Linia   854912: 123716,703514523,Damian,Bazylewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Murzynowskiego 5/45 10-684,10-684,507672268 
+
+Linia   861714: 2057597,926532593,Konrad,Tomasiuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Skajboty 
+
+Linia   861955: 871289,578776234,Mikołaj,Madeksza,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jana Boegnika 21/15,10-686,+48 575280505 
+
+Linia   862754: 938625,887387467,Marcel,Hejnicki,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Żeromskiego 8/28,64-200,721314932 
+
+Linia   870299: 1806418,345693073,Norbert,Weżgowiec,39959,Poland,Silesian 
+Voivodeship,Olsztyn,Krasawa 18 42-256 Olsztyn,42-256,574356420 
+
+Linia   878224: 1196466,338438839,Julia,Borucka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Sokola 1A/4, 11-041 Olsztyn,11-041,+48530903027 
+
+Linia   878311: 2143554,390831299,Kacper ,Bojarzyn,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 66/29,10-437,730994939 
+
+Linia   896402: 1035467,502240156,Piotr,Szostek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mroza 12/28,10-692,601904725 
+
+Linia   896757: 1477349,165040287,Kacper,Zawadzki,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Wolsztyn Garbarska 8/54,64-200,537247759 
+
+Linia   898590: 1215027,420353764,Filip,Leszczyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pana Tadeusza 2/25,10-461,695975501 
+
+Linia   905223: 1924411,776055570,Miłosz,Dargiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Działkowa 54 Olsztyn,10-861,535198648 
+
+Linia   907709: 416847,916797468,Filip,Wojnowski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,bolka i lolka 31,10-696,501125326 
+
+Linia   910111: 720018,816142990,konrad,jamroszka,39959,Poland,Greater Poland 
+Voivodeship,olsztyn,herdera 24/28,10-691,532554465 
+
+Linia   918321: 173395,891927088,Salaam ,Diallo,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kutrzeby 2/26,10693,501851981 
+
+Linia   919427: 546739,359763651,mykyta,Vrublevskyi,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zolnierska14c/213,10-561,577653427 
+
+Linia   922871: 2223886,783478892,Oliwier,Stempień,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Morwowa 12,10-023,577301066 
+
+Linia   926490: 304806,768127539,S&T serwis 
+Tomasz,Cieśla,39959,Poland,Warmian-Masurian Voivodeship,Olsztyn,Pilsudskiego 76 ST 
+serwis,10-450,884032008 
+
+Linia   926690: 1434566,385486406,Filip,Wojnowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bolka i Lolka 31,10-696,501125326 
+
+Linia   939494: 1861589,841666729,Hanna,Lachowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Orlowicza 3/4,10-684,+48 600 340 326 
+
+Linia   941575: 944331,384819872,dominik,bugaj,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,1 maja 5a/60,10-117,+48665805905 
+
+Linia   945823: 1066559,169015552,Paweł,Neumann,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pimpickiego 
+
+Linia   955510: 594213,296459571,Maciej,Rapinczuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewko 91,11-010,798702540 
+
+Linia   967855: 250704,952356622,jakub,Błażejak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Złota 9 29,10-689,512 957 545 
+
+Linia   975914: 1441362,332699831,Jakub,Skorupinski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Niałek Wielki 24, Wolsztyn,64-200,570754151 
+
+Linia   977549: 145248,628933460,Jakub,Patejuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Klebark Mały 59,10-687,607939166 
+
+Linia   986779: 103900,500203877,Natasza,Szewczenko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Kazimierza Markiewicza 12 Olsztyn,10-774,+48 508737196 
+
+Linia 1000286: 890958,692919801,Mariia,Kochanova,39959,Poland,Masovian 
+Voivodeship,Olsztyn,Ostrzeszewo 65,10-687,+48572289228 
+
+Linia 1003399: 2253481,946909433,Kapi,Slesle,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Spręcowo 46A 
+
+Linia 1003799: 851282,620972030,Antoni,Adamczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wawrzyczka 1L,10-762,787086532 
+
+Linia 1007807: 1118548,257097498,Oliwier,Małocha,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Nowaka 2/67,10-746,572262932 
+
+Linia 1015780: 1199271,998271871,Tomasz,Fatyga,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Boenigka 8/9,10-686,733757812 
+
+Linia 1022453: 1663478,334261513,Marcin,Sul,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanta 12/26,10-691,515330393 
+
+Linia 1024357: 992377,837768228,Karol,Rochowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kołobrzeska 13L / 38,10-445,500828646 
+
+Linia 1024363: 373122,684460231,Dawid,Grala,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellońska 35/19,10-283,530284365 
+
+Linia 1035138: 1556738,111945192,Franek,Adamczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bałtycka 75b,10-175,660622572 
+
+Linia 1037603: 2214153,517082892,Tomek,Jabłoński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Poranna 8c /13,11-041,607372716 
+
+Linia 1046133: 2085149,444805195,Daniil,Barkhatov,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Świetlistą ,64,10728,+48502663107 
+
+Linia 1051390: 1492762,149539009,Cezary,Borko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Rzedziana, 21,11-041,+48723979698 
+
+Linia 1054257: 2085164,513452873,Artem,Katkov,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Świetlista 64,10-728,+48698267057 
+
+Linia 1056170: 781380,904060955,Oliwier,Charun,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Sielska 22a,10-820,886463524 
+
+Linia 1072753: 2208596,593060351,Oliwier,Uzar,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Orłowicza 8, mieszkanie 60,10-684,510871046 
+
+Linia 1073673: 1537547,706212388,Dawid,Gnat,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Strąkowa 3,10-846,609 256 999 
+
+Linia 1074157: 1409495,285535349,Jakub,Krajewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 77a/9,10-699,797429933 
+
+Linia 1083720: 482275,331124851,dawid,dudziak,39959,Poland,Greater Poland 
+Voivodeship,wolsztyn,Żeromskiego 8/10,64-200,667187919 
+
+Linia 1086285: 1861677,628933460,Olaf,Golebiowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul.Gałczyńskiego 62/3,10-089,514572573 
+
+Linia 1097073: 1467013,951699463,oskar,wronka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jana Boenigka 1a/35,10-685,576946067 
+
+Linia 1101598: 1027719,536034972,Mateusz,markowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,gałczyńskiego 13/24,10-089,692928901 
+
+Linia 1118456: 94403,822838149,Arek,Kowalski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jerzego Popiełuszki 4/26,10-693,791721156 
+
+Linia 1137078: 36641,581442276,Bartosz,Opieczyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,kromera  6/12,10-130,735036486 
+
+Linia 1139831: 2056883,548335998,Andrzej,Matracki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,1 Maja 11 18/19/22,10-118,664987175 
+
+Linia 1143519: 1913775,429158467,paweł,czerniewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Świątki,11-008,516758798 
+
+Linia 1150694: 826401,194237983,justyn,fu,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,janiny wengris 47,10-765,07307892902 
+
+Linia 1153638: 959955,717861164,Kamil,Maleszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ługwałd 169A/1,11-001,665628151 
+
+Linia 1155722: 1898468,350912812,Filip,Kubat,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Warmińska 27/12,11-041,696884577 
+
+Linia 1158368: 753068,404472066,kacper,kacper,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,berzyna 23,64-200,732886416 
+
+Linia 1159532: 773905,712422885,Leo,Gartner,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kresowa 88,11-041,516766570 
+
+Linia 1163284: 720020,816142990,konrad,jamroszka,39959,Poland,Greater Poland 
+Voivodeship,olsztyn,herdera 24/28,10-691,532554465 
+
+Linia 1165416: 957459,249447192,Igor,Abramek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Tomaszkowo, Panny 7,11-034,501989532 
+
+Linia 1175184: 1995112,234595223,piotr,Ostasz,39959,Poland,Warmian-Masurian 
+Voivodeship,OLSZTYN,Kłosowa 67,10-818,574672519 
+
+Linia 1175770: 13945,88045587,Bruno,Koszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Małeckiego 7a/19,10-293,690621011 
+
+Linia 1176983: 550090,754779123,Maciej,Gortatowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Janusza Korczaka 26,10-001,537919317 
+
+Linia 1197141: 389177,193265374,mikolaj,karaszkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,barcza 40 mieszkanie 35,10-685,694832589 
+
+Linia 1198117: 2245116,882345776,Hubert,Kołodziejski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,zientary-malewskiej 55B/7,10-310,603619727 
+
+Linia 1198340: 591676,831930217,Dawid,Borzymowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Sosnkowskiego 2,10-693,792 522 697 
+
+Linia 1199615: 2232328,757787010,Karolina,Olczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Świerkocin 1/2,11-015,795458376 
+
+Linia 1204450: 423559,642054836,Rafał,Wiśniewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Herdera 8/1,10-691,506 916 618 
+
+Linia 1213023: 1938634,770763702,Łukasz,Sudoł,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,mroza 19/55,10-687,720770597 
+
+Linia 1219073: 1297703,351813961,Timon,Wierchowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,219 Kłosowa,10-818,+48577513288 
+
+Linia 1219518: 1534200,833248972,martyna,maciejewska,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,spacerowa,10-656,783739892 
+
+Linia 1222061: 1404807,103944088,Klaudia,Staranowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,dożynkowa 5,10-858,+48604830041 
+
+Linia 1223125: 1348324,306864238,pawel,urbanski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,kieźliny 139,10-317,727937427 
+
+Linia 1234921: 1130499,746877140,Sławomir,Jabłoński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. gen. Stefana Grota Roweckiego 31/62,10-693,+48504019016 
+
+Linia 1237411: 1418974,122338749,Aleksy,Amroziński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Smętka 7/15,10-077,578200688 
+
+Linia 1250215: 216843,316638610,Paweł,Michalczak,39959,Poland,Greater Poland 
+Voivodeship,Mochy,Wolsztynska 1a,64-234,+48 517979146 
+
+Linia 1250355: 405619,821424634,Filip,Florczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,7 wilczynskiego,10-689,512822673 
+
+Linia 1252371: 418638,997160024,Katarzyna,Komiago,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żiżki 8/9,10-070,691281934 
+
+Linia 1263179: 1909669,861714157,Franek,Makowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dożynkowa 94,10-858,+48530880265 
+
+Linia 1263472: 1474977,977864190,Oliwier,Szymkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn  ulica Dworcowa 43/182,10-437,791134363 
+
+Linia 1267855: 162382,406986567,Krystian,Prusaczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ruś 51,10-687,665574037 
+
+Linia 1269550: 366052,955051729,Łukasz,Dzijak,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,lubelska 47b/2,10-410,799983607 
+
+Linia 1272116: 423828,671209938,Miłosz,Gawrylczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Gałczyńskiego 64/8,10-089,511909505 
+
+Linia 1272836: 706983,591183678,Adam,Jasiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Markiewicza 6,10-774,48+ 883001123 
+
+Linia 1290099: 113959,662437873,Bartosz,Kwiecień,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Turkowskiego 5,10-691,880688127 
+
+Linia 1296184: 175202,119333064,Maciej,Gołębiowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Diamentowa 17,10-698,506251804 
+
+Linia 1299228: 783201,638037859,Antoni,Dybionka,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Przemysłowa 13/10,64-200,+48 784 362 881 
+
+Linia 1303216: 1832075,404169208,Bartosz,Bembnowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bankowców 9,10-628,508637402 
+
+Linia 1307933: 522801,748999621,Oliwier,Machowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Liliowa 15/u3 fryzjer,11-041,692944643 
+
+Linia 1308403: 1269280,924019568,Daiana,Yatsenko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zurawia26a/25,11-041,+48506663595 
+
+Linia 1309238: 67498,891927088,Szymon ,Rodak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kubusia Puchatka 6/11,10696,504767244 
+
+Linia 1317982: 725792,354155530,Michal;,Banach,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 77c/12,10-699,515803007 
+
+Linia 1319201: 2155394,860341736,Wiktor,Rebajn,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Iwaszkiewicza 2/31,10-089,782060727 
+
+Linia 1319645: 1468015,444805195,Daniil,Barkhatov,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Swiatlista,64,10001,+48502663107 
+
+Linia 1327676: 1103045,713473910,Filip,Florczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żurawskiego 4/16,10-694,512822673 
+
+Linia 1328781: 1171814,450811461,Szymon,Glowacki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Akacjowa 9 
+
+Linia 1342139: 1345374,641896287,Dawid,Ślesicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 17/33,10-437,696524969 
+
+Linia 1346059: 1202262,418542581,Dawid,Janeczko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zolnierska 31 m. 30,10-560,+48662495124 
+
+Linia 1346255: 545806,275275561,Jędrzej,Urbanowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Warglewo 3 11-015 Olsztynek,11-015,602741200 
+
+Linia 1353894: 1229952,929274106,Renata,Gajdzinska,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Berzyna 79,64-200,48+ 606 895 316 
+
+Linia 1358398: 968202,653971326,David,Kos,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,15 Dywizji 6B/15,10-166,+48500123707 
+
+Linia 1365904: 2180717,567499768,Wiktor,Wiktor,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Komorowska 1,64-200,530053367 
+
+Linia 1389225: 1579322,937563720,Wiktor,Rebajn,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,iwaszkiewicza 2\31,10-089,782060727 
+
+Linia 1389586: 1819230,969817993,Hubert,Ropiak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul.Pomorska 20/20,10-699,601612220 
+
+Linia 1399323: 279463,906368279,Igor,Truszkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pstrowskiego 30B/16,10-602,728993175 
+
+Linia 1400735: 1549778,278599862,kamila,Dąbrowska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gębika 65/24,10-691,786959410 
+
+Linia 1404262: 2115332,683439054,Oktawian,Kotowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Głowackiego 30/7,10-564,791672388 
+
+Linia 1406511: 948366,806987010,Maciej,Faryniarz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Marcina Kasprzaka 15 Ap. 12 Olsztyn,10-057,505 039 978 
+
+Linia 1409321: 1755261,422396218,Anna,Klosowska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kubusia Puchatka 17/2,10-696,500314451 
+
+Linia 1410809: 1883763,302104695,Mikołaj,Salamon,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kołobrzeska 7a/22,10-444,48+ 735 393 081 
+
+Linia 1423421: 1456802,209678821,Patryk,Janicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wilczyńskiego 2c/13, Olsztyn, 10-686,10-686,503387345 
+
+Linia 1424060: 1642211,820984397,Dominik,Sienkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 52/33,10-437,516507365 
+
+Linia 1424815: 1523608,258635484,Adrian,Kłosowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 11b/32,10-558,737906749 
+
+Linia 1425423: 103899,500203877,Natasza,Szewczenko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Kazimierza Markiewicza 12 Olsztyn,10-774,+48 508737196 
+
+Linia 1425665: 1764925,406359451,Katarzyna,Grygorczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Orłowicza 7/50 10-684 olsztyn,10684,+48519780201 
+
+Linia 1442726: 1518664,369259568,adam,cinski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,ksiedza Jerzego Popieluszki 1/38,10-693,+48663085921 
+
+Linia 1447600: 122542,774211135,Paweł,Smoczyński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Laszki 1, mieszkanie 18/ Laszki 1, home number 18,10-687,786225469 
+
+Linia 1463017: 1574821,870263681,Xaver,Angrik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Popiełuszki 2/11,10-693,504293426 
+
+Linia 1468257: 2047712,145573223,Kacper,Okoniewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,wędkarska 4/2,11-015,574127171 
+
+Linia 1468359: 1155207,852432440,Dmytro,Martynyuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pana Tadeusza 14/21,10-461,726078867 
+
+Linia 1477552: 2008186,721368075,Olek,Sal,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Janowicza 7/26,10-692,+48 735 958 434 
+
+Linia 1477861: 2252321,692777243,Marlena,Supińska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Tęczowy Las 2A/19,10-687,518442765 
+
+Linia 1479741: 1021193,31576252,Emmanuel,Ibe,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Osińskiego 15 apartament nr 2,10-011,723859175 
+
+Linia 1494901: 1017073,806987010,Wiktor,Sulewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Partyzantów 1/2 Apartment 3,10-522,+48 797 864 746 
+
+Linia 1495955: 1167952,620549554,Krzysztof,Szczubełek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,andersa 54/7,10-693,+48786819620 
+
+Linia 1512835: 576364,440002368,Igor,Gembicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanarkowa 3,11-041,506086194 
+
+Linia 1512874: 1290089,865791433,Adrian,Kłosowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn 10-558  ul. Żołnierska 11b / 32     city: Olsztyn, zip-code 10-558, street: 
+Żołnierska 11b/32,10-558,+48737906749 
+
+Linia 1517492: 768612,916797468,Piotr,Liberadzki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,mroza23a/3,10-692,888719912 
+
+Linia 1520854: 130647,95163852,Jakub,Polakowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Słupy 57g,10-381,693056358 
+
+Linia 1524437: 572507,536180294,Wiktor,Sulima,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gałczyńskiego 62/4,10-089,780146319 
+
+Linia 1529359: 2180522,665496311,Kacper ,Ziółkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn ,Dorex 
+
+Linia 1530253: 1241264,157051245,Rafał,Nawotczynski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bolka i Lolka 64,10-696,784506916 
+
+Linia 1531793: 1759133,145451923,Jakub,Sobczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ul. Kazimierza Jagiellończyka 20A/1,10-062,667202807 
+
+Linia 1537298: 2054179,719358555,Joanna,Czeszak-Zawieja,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Karpicko ul. Kwiatowa 6,64-200,795585967 
+
+Linia 1539170: 459885,795777613,Oliwier,Kisiel,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Morenowa 1a/24,10-687,519190438 
+
+Linia 1545462: 2240661,197456098,Nikol,Halik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego 1 m.186,10-061,697316896 
+
+Linia 1545731: 1571329,226896434,Kacper,Szydlowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stanisława Flisa 4/4,10-687,505010809 
+
+Linia 1546388: 2000510,753399222,szymon,chynczewski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,maleckiego 8/28,10-900,507054809 
+
+Linia 1548311: 2327802,423034943,Kuba,Pożegowiak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,14-300 Morąg Wróblewskiego 12/2,14-300,500616923 
+
+Linia 1548371: 2152237,384530020,Kacper,Klapsa,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Rożka 20/2,64-200,+48 608 814 920 
+
+Linia 1549148: 2291632,778109258,Patryk ,Grabowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kutrzeby 3/26 10-693,10-693,532923304 
+
+Linia 1553299: 2188514,482864524,Mikołaj,Cybul,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wojska polskiego 20a,10-229,601721159 
+
+Linia 1562764: 511514,189666372,igor,Bączyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,olsztyn złota 10/5,10-698,48+ 504032692 
+
+Linia 1571631: 2296317,133372362,Nikol,Halik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego 1,10/061,697316896 
+
+Linia 1573434: 2330218,303060581,Filip,Wawrzyński,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Chorzemin 25,64-200,726757375 
+
+Linia 1577476: 1814091,933779432,Ksawery,Kańczuga,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Olsztyn Iwaszkiewicza 36/7,10-089,669024095 
+
+Linia 1578154: 306649,470426960,Dawid,Ślesicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 17/33,10-900,696524969 
+
+Linia 1578184: 282648,165119913,Leo,Gartner,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kresowa 88,11-041,609748252 
+
+Linia 1582134: 2038329,936286220,antoni,Szymański,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Jacka Kuronia 9/3,10-166,797308587 
+
+Linia 1583959: 740558,158965969,Jakub,Radziewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Klonowa 8,11-015,883332759 
+
+Linia 1596163: 1264808,190736501,Karol,Koszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wachowskiego 2/5,10-691,+48726391520 
+
+Linia 1620713: 1947363,956314804,Gabriela,Krzywicka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Okrągła 71,10-836,790225358 
+
+Linia 1621768: 1206103,938024359,Mateusz,Bojaruniec,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gałczyńskiego 25/51,10-089,798717256 
+
+Linia 1622462: 1979997,179755987,Dominik,Łotkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żurawia 24C/4,11-041,502515420 
+
+Linia 1624571: 290064,427610745,szymon,sobczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,ul. Zietary Malewskiej 55b/13,10-308,692474024 
+
+Linia 1630787: 773463,465283784,Wiktor,Dembek,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Garbarska 3/5,64-200,664-950-710 
+
+Linia 1632100: 1869320,899655145,Jakub,Obudzinski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jarocka 78B/17,10-699,795957620 
+
+Linia 1633046: 1039070,567522770,Mykyta,Vrublevskyi,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zolnierska 14c / 213,10-561,577653427 
+
+Linia 1636353: 1500771,749298531,Jan,Kryczka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 1A / m. 19,10-698,698962896 
+
+Linia 1639282: 491128,734937256,Tymoteusz,Bieńkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Leonarda Turkowskiego 10,10-691,501290233 
+
+Linia 1641948: 1992427,438768659,Igor,Kamiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Burskiego 14/9,10-686,661731599 
+
+Linia 1644240: 1533378,941497578,Marcin,Witt,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 14E/21,10-561,726703063 
+
+Linia 1646578: 1167057,234581741,Kamil,Kowalczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Pana Tadeusza 3/9,10-460,503863420 
+
+Linia 1654021: 1900705,770763702,olej,Wieczorek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,kanta 12/38,10-687,661414660 
+
+Linia 1655683: 2158497,903545162,Przemysław,Smoliński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Agrestowa 2,11-015,537402805 
+
+Linia 1656811: 2049474,378665960,Jakub,Borzyszkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wilczyńskiego 6c/24,10-686,+48883030525 
+
+Linia 1667522: 1495155,421031977,Paweł,Sztabiński,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,stefana okrzei25a/7,10-266,534628159 
+
+Linia 1670951: 2090926,692919801,Olena,Stoliar,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bociania 8,11-041,+48787212743 
+
+Linia 1672325: 834363,447300781,karol,Jasiulewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,JEZIOŁOWICZA 9/14,10/690,504688709 
+
+Linia 1672510: 28553,31576252,Leon,Mołdysz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellonska 57g apartament 5,10-272,604784349 
+
+Linia 1685046: 1167062,878178203,Joe,Amba,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,barcza 34,10684,470520987 
+
+Linia 1687368: 2091597,197316437,Monika,Rajch,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Immanuela Kanta 12/29,10-691,667887209 
+
+Linia 1687971: 67411,533718234,Jakub,Urbanski,39959,Poland,Silesian Voivodeship,Olsztyn 
+k.Czestochowy,Debowa 26,42-256,721300033 
+
+Linia 1691365: 791738,888517085,Bartek,Merchel,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jagiellońska 58c/18,10-238,531991690 
+
+Linia 1698595: 1305848,768127539,Zofia,Stasiuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Skrzetuskiego 3B,11-041,500274731 
+
+Linia 1703677: 1621621,483601128,Adam,Dolata,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zientary-Malewskiej55a/4,10-310,665963258 
+
+Linia 1719884: 210595,278239030,mateusz,pajdak,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,mroza7/12,10-692,516392787 
+
+Linia 1723789: 828672,363989852,Gabriel,Żywanowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Maryny Okęckiej Bromkowej 7/7b,10-698,792450306 
+
+Linia 1727192: 570630,497401555,Kacper,Chętnik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kanta 12 mieszkania 33,10-691,571 280 506 
+
+Linia 1735149: 1478786,125939875,Patryk,d’Aystetten,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Juliana Dadleza 5/43,10-687,+48601506089 
+
+Linia 1735745: 2215372,666598142,Bartek,Piosik,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Nowe Tłoki 63D,64-200,692950551 
+
+Linia 1755690: 1758891,756648765,Piotr,Kręcki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bajkowa 19,10-696,533480344 
+
+Linia 1755711: 65571,412022934,Maksymilian,Krysiak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,orła białego 6 Łupstych,11-041,+48666078163 
+
+Linia 1758037: 1269939,540314180,jakub,czeliński,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Ryszarda Knosały 7b/16,11-041,451241200 
+
+Linia 1761002: 609219,955270594,Marcin,Powirski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stramkowsiej 11/12,10-689,733288866 
+
+Linia 1762020: 1371264,558444725,jakub,kosiarek,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,boenigka 8/8,10-686,505406685 
+
+Linia 1762990: 1290116,258635484,Adrian,Kłosowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żołnierska 11b / 32,10-558,+48737906749 
+
+Linia 1797544: 631410,365452281,Janek,Pepol,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,sienkiewicza 3/5,10-268,798681205 
+
+Linia 1804223: 1691589,132931728,Ela,Ciesielska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wyszyńskiego 4/91,10-455,517341164 
+
+Linia 1816737: 448498,55896133,Kacper ,Rachubka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 37/20,10-685,+48530982164 
+
+Linia 1830455: 680217,769112135,gabriela,prokop,39959,Poland,Warmian-Masurian 
+Voivodeship,Stawiguda,olsztyn stawiguda wilgi 5,11034,797515977 
+
+Linia 1834915: 1446287,695731801,Amelia,Kulig,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Wilczyńskiego 2E/9,10-686,694496820 
+
+Linia 1842365: 1356331,574184716,Paweł,Jankowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Waplewo 5B,11-015,692944352 
+
+Linia 1845941: 2192194,901252468,Filip,Kępa,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Olsztyn Żołnierska 12b-69,10-559,+48573073470 
+
+Linia 1849246: 516658,663888411,piotr,LIberadzki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mroza23a 
+
+Linia 1856829: 1956893,155511166,nikodem,kusiak,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,kanta12/32,10-691,699713948 
+
+Linia 1866561: 756312,499390762,Dawid,Piotrowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Herdera 7/9,10-691,791317618 
+
+Linia 1868090: 1216266,522642501,szymon,jaguszewski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,żniwna 84,10-811,884635206 
+
+Linia 1874816: 1421975,536397139,Zuzanna,Kowalczyk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 59/82,10-437,511637588 
+
+Linia 1879304: 1332503,969817993,Oliwier,Bieńkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jaroszyka 18/11,10-687,533549007 
+
+Linia 1891599: 2141063,384920435,Jakub,Kiryluk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Juliana Dadleza 3/7,10-687,793432913 
+
+Linia 1898300: 1896472,890517317,Oliwier,Stańczak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Warszawska66/25,10-084,690996191 
+
+Linia 1903278: 
+1992089,543325111,Magdalena,Fiedorowicz-Nowak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,ul. Rzędziana 30,11-041,+48504160091 
+
+Linia 1916502: 1280002,555018088,Kamil,Zdun,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Herdera 7/10,10-691,537691159 
+
+Linia 1922479: 238409,742791762,Bartosz,Baranowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jeziołowicza 10/29,10-690,735963791 
+
+Linia 1927516: 2329383,648216849,Adam,Kołaczkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,10- 686 Olsztyn  
+
+Linia 1934691: 469001,165119913,Antoni,Przewłocki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Rzeszowska 2,10-678,577558122 
+
+Linia 1940871: 791970,427307253,Piotr,Kurian,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Aleja Warszawska 5/6,10-081,791791867 
+
+Linia 1945090: 1207445,812866192,Mateusz,Schmiel,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Aleja Wojska Polskiego 8/6,10-229,798578492 
+
+Linia 1950649: 1403233,619079412,Antek,Mieczkowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Iwaszkiewicza 40/19,10-089,720772069 
+
+Linia 1950940: 364478,240515039,Szymon,Rodak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kubusia Puchatka 6/11,10-696,504767244 
+
+Linia 1960729: 1493765,928090631,Adam,Urbański,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,sucharskiego 3/29,10-699,733663878 
+
+Linia 1962356: 369929,820184343,Igor,Janicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żurawia 22F,11-041,572970120 
+
+Linia 1962546: 855054,148663710,Jakub,Niedzwiedzki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 6/31,10-699,+48503321343 
+
+Linia 1964234: 478623,533088314,Aleks,Bandurski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Okrągła 77,10-836,730980910 
+
+Linia 1965167: 108887,551093355,Maciej,Folgmann,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 58 
+
+Linia 1969696: 93135,820523069,kacper,kacper,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,boenigka 34A/35 10-686,10-686,731708408 
+
+Linia 1982891: 921535,812866192,Kacper,Kaźmierczak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ulica Żeromskiego 3/18 Olsztyn,10-350,783865061 
+
+Linia 2028225: 2198297,197456098,Nikol,Halik,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barczewskiego 1 ,10-061,697316896 
+
+Linia 2033864: 2257814,413245175,Antoni ,Moszczyński ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn  ,Szczęsne, Widokowa 9,10-687 Olsztyn ,691996467 
+
+Linia 2034802: 367471,623240724,Olaf,Lisicki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Hozjusza 9a 1,11-041,+48 789 477 300 
+
+Linia 2043416: 558555,768127539,Maciej,Cieśla,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Skrzetuskiego 3B,11-041,+48884032008 
+
+Linia 2056938: 1673802,843933533,Dawid,p,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,lengowskiego 9/6,10051,517671433 
+
+Linia 2057632: 511959,639447610,mateusz,liberda,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,rumiankowa 
+
+Linia 2063378: 1816152,942183896,Norbert,Kramski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Niałek Wielki 76,64-200,+48602581054 
+
+Linia 2066622: 1897185,489151274,Borys,Rybiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 31/16,10-685,518290858 
+
+Linia 2068421: 1386403,924043666,Patryk,Pierzchała,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Franciszka Hynka 7/40,11-001,+48794773958 
+
+Linia 2070181: 1320740,560476605,Mateusz,czułowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Piłsudskiego 64e Win Cin,10-449,661970808 
+
+Linia 2071658: 1189804,809807664,Artur,Tyszka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bartąska 122/17,10-687,733063023 
+
+Linia 2097493: 2231832,270316567,Olena,Kovalchuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Spółdzielcza 1 ,11-041,+48510548551 
+
+Linia 2100959: 424845,746484985,Kacper,Dziekoński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Mroza 34/2,10-437,739040715 
+
+Linia 2102804: 420104,504874887,Tymoteusz,Kamper,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Różowa 12,10-142,721882122 
+
+Linia 2106634: 1015948,782108018,Radosław,Szwedo,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Świerkocin 20E,11-015,697769708 
+
+Linia 2117268: 2310811,737843798,Kacper,Marchliński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Owocowa 37,10-860,+48 665 750 845 
+
+Linia 2128368: 2081279,589187669,Oleksandr,Shkinder,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Marii Konopnickiej 3/5,64-200,+48668173701 
+
+Linia 2128969: 2253364,306218267,Marcin ,Majewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Aleja Przyjaciół 5/3,10-147,668839980 
+
+Linia 2133676: 660669,515376752,Jakub,Stawski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stawigudzka 10/34,10-687,798187534 
+
+Linia 2135950: 466095,495764667,Damian ,Tobaj ,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Włościańska 1,10-857,+48 690375031 
+
+Linia 2142839: 2353595,296504546,Radosław,Paderewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Reymonta 22 m 2 
+
+Linia 2143044: 1177024,168247169,Franciszek,Rogowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Szkolna 16/31,11-015,668609487 
+
+Linia 2144322: 1174414,512605132,Jakub,Jakubowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Barcza 25/2,10-685,+48783962286 
+
+Linia 2146145: 2198802,344750137,Igor,Cis,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Borowa 16/40,10-127,451579782 
+
+Linia 2147444: 267681,965217929,Kuba,Lipecki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Zonkilowa 5,11-041,503460896 
+
+Linia 2156260: 297062,138950467,Adam,Frąckiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Jana Boenigka 11/4,10-686,502477083 
+
+Linia 2161887: 1065556,822128238,Filip,Dąbrowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Pisz,Olsztynska 56c,12-200,511713412 
+
+Linia 2164176: 1819914,476423527,Vlad,Lysiuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,stanisława żurawskiego 14/9,10-689,780027167 
+
+Linia 2190438: 2259210,754476832,Alan,Zembrzuski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Macieja Rataja 62/35,10-260,733191283 
+
+Linia 2201573: 203579,690782571,Michał,Barski,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Niałek Wielki 97F,64-200,694 800 443 
+
+Linia 2214679: 2218479,638212488,Marcelina ,Przybyła,39959,Poland,Lodz 
+Voivodeship,Wolsztyn,Błocko 8/3,64-200,534236024 
+
+Linia 2242278: 1352866,788832892,Arek,Królak,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Tadeusza Młynka 2,10-756,731854282 
+
+Linia 2247296: 900605,740010408,antek,jodko,39959,Poland,Greater Poland 
+Voivodeship,wolsztyn,poprzeczna 18,64-200,+48 606126684 
+
+Linia 2255206: 388385,804640348,oskar malinowski, 
+Malinowski,39959,Poland,Warmian-Masurian Voivodeship,Olsztyn warmińsko mazurskie,Olsztyn 
+Murzynowskiego 3/6 Polska,10-684,512 291 781 
+
+Linia 2258437: 1499164,714013263,Kamil,Orzechowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Trylińskiego 10/1 
+
+Linia 2258439: 1704843,401554222,Bogdan,Lenkiewicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Antonowicza7/F,10-698,665030900 
+
+Linia 2270469: 904396,913257012,filip,hanas,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,Leśna 10/40,10-173,534065284 
+
+Linia 2293817: 589881,106519009,Avista 
+Agnieszka,Kaczmarczyk,39959,Poland,Warmian-Masurian Voivodeship,Olsztyn,Metalowa 
+4,10-603,693125853 
+
+Linia 2301525: 647560,461077495,Jakub,Mądry,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Żółta10A Apartment30 Third floor,10-140,665558944 
+
+Linia 2312826: 848615,992829486,Łukasz,Pycek,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Kunki 10A,11-015,+48572072593 
+
+Linia 2315538: 629926,906065033,Grzegorz,Mironiuk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bilitewskiego 4/69,10-693,+48 693 309 959 
+
+Linia 2323311: 2218481,638212488,Marcelina ,Przybyła,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Błocko 8/3,64-200,534236024 
+
+Linia 2344130: 1333986,271879433,alan,biedrzycki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,siewna 31,10-830,533593523 
+
+Linia 2347000: 495004,380488397,Jakub,Opiela,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Murzynowskiego 22/23,10-684,501390422 
+
+Linia 2352373: 1017412,239776798,Kuba,Grudnowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Gałczyńskiego 37/9,10-089,501654432 
+
+Linia 2353735: 1221800,131504904,Bartosz,Zdun,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Cicha 3b,10-313,739090825 
+
+Linia 2371859: 1845129,872398482,Szymon,Bukowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Myszki Miki 10,10-696,735981448 
+
+Linia 2375786: 1821557,967219058,Vadym,Redka,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Juliana Tuwima 5a,26,10-747,880380399 
+
+Linia 2397714: 605659,327043981,Janek,Wiśniewski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Orłowicza 1/32,10-684,783502008 
+
+Linia 2399420: 155805,711774030,Leon,Rosiński,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kolejowa 7 apartament 3,10-284,515946509 
+
+Linia 2403720: 2080225,663116097,Artur,Bilonozhko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Ernesta Wiecherta 7/18,10-691,+48730351216 
+
+Linia 2406700: 387501,638015121,Nikodem,Molicki,39959,Poland,Greater Poland 
+Voivodeship,Wolsztyn,Polna 4,64-200,+48512227121 
+
+Linia 2412311: 1391086,506853777,louis,kozlowski,39959,Poland,Warmian-Masurian 
+Voivodeship,olsztyn,orłowicza 7/50,10-684,48519780201 
+
+Linia 2419087: 1084553,718765870,Bartłomiej,Obniski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Dworcowa 7, 11-041 Olsztyn Sklep wędkarski Sezon,11-041,+48 666 595 226 
+
+Linia 2425245: 1831509,886464284,Nikodem,Wolf,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Adama Mickiewicza 14a/3,10-509,535183939 
+
+Linia 2425789: 302725,676620387,Adam,Głowacki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Królowej Jadwigi 8/3,10-132,887081011 
+
+Linia 2426490: 1798305,899277725,Filip,Daniluk,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Bolka i Lolka 35,10-696,734405866 
+
+Linia 2429007: 1206712,870412755,Sabina,Gadomska,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Księdza Jerza Popiełuszki 24/38,10-693,693623714 
+
+Linia 2436044: 1678312,394782274,Jakub,Kamper,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Różowa 12,10-142,691068315 
+
+Linia 2449110: 553626,273936490,Aleksander,Szanter,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Franciszka Barcza 38/34,10-685,501451108 
+
+Linia 2454158: 1856676,764632623,Maksymilian,Bernat,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Leśna 32/31,10-173,+48606195131 
+
+Linia 2466166: 933464,334652966,Adam,Wojdylo,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kasztanowa 13,10-156,501 601 176 
+
+Linia 2473416: 1521915,256356563,Antoni,Górny,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Misia Uszatka 24,10-696,661655444 
+
+Linia 2473500: 1376225,841666729,Daniel,Skinder,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Augustowska 28,10-683,58514430 
+
+Linia 2491141: 231120,241212100,Natalia,Szewczenko,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Kazimierza markiewicza 12,10-774,+48508737196 
+
+Linia 2504797: 1571324,226896434,Kacper,Szydlowski,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,Stanisława Flisa 4/4,10-687,505010809 
+
+Linia 2504817: 1371985,730671283,szymon,makutynowicz,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztynek,Składowa 1A,11-015,730983500 
+
+Linia 2514466: 1305358,803239292,Michał,Ozga,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,dworcowa 64/30,10-437,516478884 
+
+Linia 2531784: 1515050,463946033,Szymon,Bobrycki,39959,Poland,Warmian-Masurian 
+Voivodeship,Olsztyn,burskiego 32/5,10-686,511493267 
+
